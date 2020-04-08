@@ -1,0 +1,271 @@
+[1]/X dè/U ghabh/Vs thu/Pp ?/F
+[2]/X turkey/Xfe burger/Xfe
+[1]/X turkey/Xfe burger/Xfe
+an/Q robh/Vs e/Pp math/Ap ?/F
+[2]/X bha/Vs
+bha/Vs e/Pp okay/Xfe
+[3]/X 's/Cc dè/U fhuair/Vs thu/Pp leis/Pr ?/F
+[2]/X cha/Q bhi/Vf thu/Pp a’/Sa gabhail/Nv dad/Nc leis/Pr
+[3]/X cha/Q bhi/Vf thu/Pp a’/Sa gabhail/Nv buntàta/Nc no/Cc càil/Nc
+nach/Q bi/Vf ?/F
+slaod/Vm a-steach/Rs do/Dp shèithear/Nc ceart/Rg faisg/Ap air/Sp a’/Td bhòrd/Nc
+an/Q do/Q dh’/U ith/Vs thusa/Pp na/Td sandwiches/Xfe a’d/Pr an-diugh/Rt [Name]/Nn ?/F
+[4]/X mmhmm/I
+[3]/X agus/Cc ciamar/U a/Q bha/Vs a’/Td homework/Xfe
+an/Q do/Q choimhead/Vs an/Td tidsear/Nc ris/Pr ?/F
+[4]/X cha/Q do/Q choimhead/Vs fhathast/Rt
+[3]/X ‘s/Cc an/Q robh/Vs a_h-uile/Dq duine/Nc eile/Aq air/Sa na/Td trì/M duilleagan/Nc a/U dhèanamh/Nv ?/F
+[4]/X mmhmm/I
+[3]/X bha/Vs ?/F
+‘s/Cc an/Q d’/Q fhuair/Vs iad/Pp [?]/X
+[4]/X uh/I ?/F
+[3]/X an/Q robh/Vs e/Pp doirbh/Ap ?/F
+[1]/X an/Q robh/Vs e/Pp doirbh/Ap aca/Pr ?/F
+[4]/X thuirt/Vs [Name]/Nn
+gun/Q robh/Vs e/Pp ag/Sa obair/Nv gu/U anmoch/Rt so/Xfe [?]/X
+[3]/X dè/U thuirt/Vs [Name]/Nn ?/F
+[4]/X ach/Cc tha/Vp ise/Pp cho/Rg brainy/Xfe co-dhiubh/Rg
+[3]/X cha/Q do/Q shaoil/Vs ise/Pp dad/Nc dhe/Pr
+[2]/X Dad/Xfe an/Q geàrr/Vf thu/Pp am/Td pie/Xfe agam/Pr ?/F
+[1]/X carson/U nach/Q gabh/Vf thu/Pp gearr/Vf thu/Pp am/Td pie/Xfe agad/Pr fhèin/Px ?/F
+[2]/X uill/I chan/Wp urrainn/U dhomh/Pr
+[1]/X och/I ‘s/Wp urrainn/U dhut/Pr
+tha/Vp thusa/Pp nad/Sp ghille/Nc mhòr/Aq a-neist/Rt a/U [Name]/Nn
+[3]/X an/Q robh/Vs d’/Dp amhaich/Nc goirt/Ap an-diugh/Rt a/U [Name]/Nn
+[4]/X mmhmm/I
+[3]/X bha/Vs ?/F
+[4]/X àidh/I
+[1]/X an/Wp toil/U leat/Pr mince/Xfe pies/Xfe ?/F
+[4]/X ‘s/Wp toil/U
+[3]/X ‘s/Cc ciamar/U a/Q tha/Vp an/Td cnatan/Nc agad/Pr fhèin/Px a/U [Name]/Nn ?/F
+[2]/X mm/I rud/Nc beag/Aq nas/U fhearr/Ap
+[3]/X ò/I a/Q bheil/Vp ?/F
+[2]/X chan/Q fhairich/Vf mi/Pp idir/Rg e/Pp anns/Sp a/X [?]/X
+[3]/X an/Q robh/Vs thu/Pp a’/Sa casadaich/Nv an-diugh/Rt ?/F
+[2]/X bha/Vs
+[3]/X dè/U thuirt/Vs [?]/X nach/Q [?]/X sibh/Pp
+tha/Vp sibh/Pp uile/Rg [?]/X
+dè/U thuirt/Vs Mrs/Y [Name]/Nn riut/Pr an-diugh/Rt ?/F
+[1]/X a/U [Name]/Nn
+[2]/X o/I sorry/Xfe
+thuirt/Vs i/Pp um/I dìreach/Rg an/Td aon/M rud/Nc
+[1]/X ciamar/U a/Q bha/Vs an/Td cnatan/Nc a’d/Pr
+an/Wp e/Pp ?/F
+[2]/X uh/I uh/I
+[1]/X a/Q bheil/Vp an/Td cnatan/Nc air/Sp duine/Nc sam_bith/Aq eile/Aq thall/Rs an_sin/Rs a/U [Name]/Nn ?/F
+[2]/X àidh/I tha/Vp e/Pp aig/Sp tòrr/Nc dhaoine/Nc
+[1]/X a/Q bheil/Vp
+[2]/X àidh/I
+‘s/Wp e/Pp bug/Xfe
+a/Q tha/Vp a’/Sa dol/Nv timcheall/Rs
+[1]/X och/I na/Td bugs/Xfe grànda/Aq tha/Vp sin/Pd
+[3]/X an/Q robh/Vs duine/Nc dheth/Pr an-diugh/Rt ?/F
+[2]/X uh/I cha/Q robh/Vs
+[1]/X [Name]/Nn ?/F
+[2]/X cha/Q robh/Vs
+[1]/X cà/U robh/Vs e/Pp an_dè/Rt ?/F
+an/Wp ann/Pr aig/Sp na/Td bales/Xfe
+a/Q bha/Vs e/Pp ?/F
+[2]/X cha/Q do/Q dh’/U fhoighneachd/Vs mi/Pp idir/Rg dha/Pr
+[3]/X ‘s/Cc dè/U bha/Vs sibhse/Pp a’/Sa dèanamh/Nv
+an/Q robh/Vs gym/Xfe no/Cc dad/Nc agaibh/Pr an-diugh/Rt [Name]/Nn ?/F
+[4]/X mmhmm/I
+[3]/X an/Td tidsear/Nc agaibh/Pr fhèin/Px
+an/Wp e/Pp ?/F
+[4]/X no/Xfe gym/Xfe tidsear/Nc
+[3]/X gym/Xfe tidsear/Nc
+‘s/Cc dè/U bha/Vs sibh/Pp a’/Sa dèanamh/Nv ?/F
+[4]/X football/Xfe
+[3]/X an/Wp e/Pp ?/F
+cò/U bhuannaich/Vs ?/F
+[4]/X bha/Vs sinn/Pp dìreach/Rg a’/Sa dèanamh/Nv ball/Xfe control/Xfe
+[3]/X ò/I seadh/I
+[4]/X [?]/X
+[3]/X mmm/I
+[2]/X thachair/Vs sin/Pd do/Sp dh’/U [Name]/Nn
+[4]/X ach/Cc ‘s/Wp e/Pp làmh/Nc left/Xfe hand/Xfe aig/Sp [Name]/Nn
+[3]/X agus/Cc cò/U bha/Vs a’/Sa coimhead/Nv
+cò/U na/Td tidsearan/Nc
+a/Q bha/Vs a’/Sa sealltainn/Nv dhuibh/Pr ?/F
+[4]/X an/Td janitor/Xfe
+[3]/X an/Td janitor/Xfe
+ciamar/U a/Q chaidh/Vs dhut/Pr anns/Sp an/Td test/Xfe [Name]/Nn ?/F
+[5]/X cha/Q d’/Q fhuair/Vs sinn/Pp idir/Rg e/Pp
+[3]/X cha/Q d’/Q fhuair/Vs sibh/Pp an/Td test/Xfe
+no/Cc cha/Q d’/Q fhuair/Vs sibh/Pp na/Td results/Xfe
+[5]/X neither/Xfe
+[3]/X nach/Q d’/Q fhuair/Vs ?/F
+carson/U ?/F
+[5]/X dh’/U fhàg/Vs Mr/Y [Name]/Nn na/Td sheets/Xfe aig/Sp an/Td taigh/Nc
+[3]/X oh/I thì/I
+fhios/Nc
+gun/Q robh/Vs e/Pp ag/Sa obair/Nv orra/Pr an-raoir/Rt
+[1]/X an/Q d’/Q thuirt/Vs thu/Pp
+gun/Q robh/Vs homework/Xfe agad/Pr [Name]/Nn ?/F
+[4]/X tha/Vp dà/M dhuilleag/Nc agam/Pr
+so/Xfe dèan/Vf mi/Pp aonan/Nc airson/Nf a-nochd/Rt agus/Cc aonan/Nc a-màireach/Rt
+[3]/X ‘s/Cc a/Q bheil/Vp an/Td tè/Nc eile/Aq agad/Pr ri/Sa dhèanamh/Nv cuideachd/Rg ?/F
+[4]/X chan/Q eil/Vp
+uill/I thà/Vp ach/Cc airson/Nf Dihaoine/Nc
+so/Xfe dìreach/Rg fàgaidh/Vf mi/Pp e/Pp
+[3]/X chan/Q fhàg/Vf thu/Pp
+[1]/X ‘s/Wp e/Pp [?]/X
+[1]/X uill/I bha/Vs sin/Pd math/Ap
+[3]/X ‘s/Cc dè/U mu/Sp do/Dp dheidhinn-sa/Nf a/U [Name]/Nn
+a/Q bheil/Vp Stamh/Nn agus/Cc Putag/Nn a’d/Pr ri/Sa leughadh/Nv an-nochd/Rt ?/F
+[2]/X fhuair/Vs mi/Pp leabhar/Nc ùr/Aq
+[3]/X bheil/Vp thu/Pp deiseil/Ap de/Sp Stamh/Nn ?/F
+tha/Vp ?/F
+[1]/X ‘se/Wp leabhar/Nc gu/U math/Rg doirbh/Ap
+a/Q tha/Vp sin/Pd a/U [Name]/Nn
+tha/Vp mise/Pp a’/Sa smaointinn/Nv
+gu/Q bheil/Vp e/Pp doirbh/Ap
+fhios/Nc agad/Pr an/Td leabhar/Nc aig/Sp [Name]/Nn an/Td oidhche/Nc roimhe/Pr ?/F
+[3]/X ‘s/Wp e/Pp leabhar/Nc glè/Rg mhath/Aq
+a/Q th’/Vp aig/Sp [Name]/Nn an-dràsda/Rt
+[1]/X tha/Vp mi/Pp a’/Sa smaointinn/Nv
+gur/Wp e/Pp [Name]/Nn [Name]/Nn
+gur/Wp e/Pp a/Dp h-/U uncle/Xfe [Name]/Nn [Name]/Nn [Name]/Nn
+an/Q robh/Vs fhios/Nc agad-sa/Pr air/Sp sin/Pd ?/F
+[3]/X uill/I ‘s/Wp iongantach/Ap
+mar/Cs a/Q chuala/Vs
+[1]/X aig/Sp cò/U ?/F
+[3]/X cuideigin/Nc a’/Sa bruidhinn/Nv air/Pr
+[1]/X uill/I thog/Vs mi/Pp an/Td leabhar/Nc a/Q bha/Vs seo/Pd anns/Sp an/Td rùm/Nc an-diugh/Rt
+agus/Cc ‘s/Wp e/Pp esan/Pp
+a/Q sgrìobh/Vs an/Td leabhar/Nc
+[3]/X Cairteal/Nc gu/Sp Meadhan-latha/Nc
+[1]/X chan/Q eil/Vp fhios/Nc a’m/Pr
+dè/U an/Td title/Xfe
+a/Q bh’/Vs air/Pr
+[3]/X tha/Vp e/Pp air/Sa a/U bhith/Nv ann_a_shin/Rs bho/Sp chionn/Nf bhliadhnachan/Nc
+dè/U thachair/Vs an_uair_sin/Rt ?/F
+[1]/X dh’/U innis/Vs cuideigin/Nc dhen/Sp chlas/Nc
+gur/Wp e/Pp uncle/Xfe do/Sp [Name]/Nn [Name]/Nn
+an/Wp e/Pp [Name]/Nn [Name]/Nn
+a/Q th’/Vp aice/Pr ?/F
+[3]/X se/Wp
+[2]/X a/Q bheil/Vp tuilleadh/Nc beans/Xfe ann/Pr ?/F
+[3]/X tha/Vp
+ach/Cc gheibh/Vf mi/Pp fhìn/Px iad/Pp a/U [Name]/Nn
+tha/Vp iad/Pp teth/Ap
+[4]/X am/Q faod/Vf mise/Pp am/Dp faighinn/Nv ?/F
+[3]/X mhmm/I
+an/Q robh/Vs an/Td t-/U acras/Nc ort/Pr
+ciamar/U a/Q bha/Vs na/Td veggie/Xfe burgers/Xfe a/U ghràidh/Nc ?/F
+[5]/X bha/Vs iad/Pp alright/Xfe
+[3]/X tha/Vp a/U dhà/Pn eile/Aq ann/Pr
+an/Q saoil/Vf an/Q gabh/Vf thu/Pp iad/Pp
+[5]/X cha/Q ghabh/Vf
+[3]/X cha/Q ghabh/Vf [?]/X
+[5]/X gabhaidh/Vf mi/Pp aon/Pn [?]/X eile/Aq
+ach/Cc tha/Vp mi/Pp ro/Rg [?]/X
+[1]/X dè/U an/Td t-/U ainm/Nc
+a/Q bh’/Vs air/Sp na/Td rudan/Nc
+a/Q bh’/Vs agad/Pr an_sin/Rs [Name]/Nn ?/F
+[5]/X veggie/Xfe burgers/Xfe
+[1]/X bheil/Vp thu/Pp nad/Sp vegetarian/Xfe fhathast/Rt ?/F
+[5]/X cha/Q robh/Vs mi/Pp riamh/Rt
+[1]/X ò/I nach/Q robh/Vs ?/F
+[3]/X so/Xfe fhuair/Vs mi/Pp dà/M leabhar/Nc dhut/Pr an-diugh/Rt [Name]/Nn às/Sp an/Td library/Xfe ann_an/Sp [Placename]/Nt
+[4]/X thanks/Xfe
+[3]/X nuair/Cs a/Q bha/Vs mi/Pp a’/Sa coimhead/Nv ann_an/Sp section/Xfe na/Td cloinne/Nc
+‘s/Cc thàinig/Vs [Name]/Nn a-nall/Rs
+‘s/Cc dh’/U fhoighnich/Vs mi/Pp dhi/Pr
+dè/U mholadh/Vh i/Pp do/Sp ghille/Nc air/Sp primary/Xfe seven/Xfe
+so/Xfe tha/Vp feadhainn/Nc glè/Rg mhath/Ap
+an/Q do/Q leugh/Vs thusa/Pp gin/Nc riamh/Rt le/Sp Joan/Nn Aitken/Nn [Name]/Nn ?/F
+[5]/X mhmm/I
+[3]/X tha/Vp iad/Pp sin/Dd math/Ap
+nach/Q eil/Vp
+[5]/X leugh/Vs mi/Pp The/Xfe Kitchen/Xfe Warrior/Xfe
+[3]/X an/Wp e/Pp sin/Pd Joan/Nn Aitken/Nn ?/F
+[5]/X mhmm/I
+[3]/X am/Td fear/Nc
+a/Q bh’/Vs againn/Pr air/Sp teip/Nc ?/F
+[5]/X mmhmm/I
+[3]/X tha/Vp am/Td fear/Nc sin/Dd math/Ap
+[1]/X nì/Vf mi/Pp balgam/Nc tì/Nc
+tha/Vp mi/Pp a’/Sa smaoineachadh/Nv
+[3]/X uill/I thog/Vs mi/Pp dà/Pn le/Sp Joan/Nn Aitken/Nn
+ach/Cc thuirt/Vs [Name]/Nn an_uair_sin/Rt
+gur/Wp dòcha/U
+gun/Q robh/Vs feadhainn/Nc eile/Aq ann/Pr
+a/Q b’/Ws fhearr/Ap a/Q chòrdadh/Vh ri/Sp gillean/Nc
+‘s/Cc sheall/Vs i/Pp dhomh/Pr iad/Pp
+so/Xfe tha/Vp fear/Nc ann/Pr le/Sp Alan/Nn Alderburg/Nn
+[4]/X Athelburg/Nn
+[2]/X no/Cc Alder/X
+a/Q th’/Vp ann/Pr
+[4]/X it’s/Xfe the/Xfe Giant/Xfe Baby/Xfe
+[3]/X mhmm/I an/Q do/Q leugh/Vs thu/Pp The/Xfe Giant/Xfe Baby/Xfe ?/F
+[4]/X mhmm/I
+[3]/X agus/Cc tha/Vp fear/Nc eile/Aq chan/Q eil/Vp cuimhn’/Nc a’m/Pr a-nis/Rt ò/I àidh/I mu/Sp dheidhinn/Nf fear/Nc no/Cc tè/Nc
+a/Q sgrìobh/Vs Byker/Xfe Grove/Xfe
+‘s/Wp e/Pp
+a/Q sgrìobh/Vs an/Td leabhar/Nc sin/Dd
+[4]/X really/Xfe ?/F
+[3]/X agus/Cc man/Cs an/Q cuimhnich/Vf mi/Pp air/Sp an/Dp toirt/Nv dhut/Pr
+mas/Cs fhalbh/Vf mi/Pp
+tha/Vp iad/Pp anns/Sp a’/Td bhaga-sgoil/Nc agam/Pr
+[4]/X cuin’/U a/Q dh’/U fheumas/Vf iad/Pp a/U bhith/Nv air/Sp ais/Nf ?/F
+[3]/X tha/Vp mi/Pp a’/Sa creidsinn/Nv
+gur/Wp e/Pp trì/M seachdainnean/Nc
+nach/Q bi/Vf an/Td date/Xfe orra/Pr
+tha/Vp mi/Pp a'/Sa creidsinn/Nv
+gun/Q leugh/Vf thu/Pp ro/Sp dheireadh/Nc na/Td seachdainn/Nc no/Cc dhà/Pn
+[4]/X àidh/I
+[3]/X nis/Rg nì/Vf thu/Pp do/Dp homework/Xfe cho/Rg luath/Rg
+‘s/Cc a/Q dhèanas/Vf tu/Pp sin/Pd
+[4]/X Mum/Xfe càil/U thu/Pp a’/Sa dol/Nv ?/F
+[3]/X uill/I tha/Vp sglaodh/Nc mhòr/Aq ann/Pr an_toiseach/Rt
+ach/Cc chan/Q eil/Vp mi/Pp a’/Sa dol/Nv chun/Sp an_sin/Pd idir/Rg
+bho/Cs tha/Vp [Name]/Nn [Name]/Nn a’/Sa tighinn/Nv thugainn/Pr a/U choimhead/Nv ris/Sp an/Td tele/Nc ris/Sp a’/Td choimpiutair/Nc
+ach/Cc tha/Vp an_uair_sin/Rt coinneamh/Nc Sradagan/Nn ann/Pr aig/Sp leth-uair/Nc an/Sp dèidh/Nf
+[1]/X oidhche/Nc thrang/Aq [?]/X
+[3]/X tha/Vp fhios/Nc agad/Pr fhèin/Px
+mas/Cs dèan/Vf thu/Pp [?]/X
+‘eil/Vp fhios/Nc a’d/Pr
+[1]/X fuirichibh/Vm aig/Sp a’/Td bhòrd/Nc [Name]/Nn
+suidh/Vm thall/Rs treiseag/Nc bheag/Aq eile/Aq
+[3]/X siuthad/Vm suidh/Vm sìos/Rs
+[4]/X no/Xfe I/Xfe know/Xfe
+tha/Vp mi/Pp dìreach/Rg [?]/X
+[3]/X ach/Cc ‘s/Wp fhearr/U dhuinn/Pr a/Dp fhàgail/Nv dhan/Sp a'/Td weekend/Xfe
+oir/Cc bidh/Vf barrachd/Nc ùine/Nc againn/Pr
+feumaidh/Vf e/Pp tòrr/Nc studaigeadh/Nc [Name]/Nn
+[2]/X I’ll/Xfe do/Xfe it/Xfe
+[3]/X cha/Q dèan/Vf
+[1]/X chan/Q eil/Vp sibh/Pp a’/Sa dol/Nv a/U dh’/U fhosgail/Nv sin/Pd an-dràsda/Rt idir/Rg
+tha/Vp gu/U leòr/Rg nar/Sp claigeann/Nc an-nochd/Rt
+[2]/X Dadaidh/Nn a/Q bheil/Vp thu/Pp a’/Sa dèanamh/Nv cofaidh/Nc ?/F
+[1]/X chan/Q eil/Vp
+ach/Cc trobhad/Vm fhèin/Px a-nuas/Rs
+nì/Vf thu/Pp fhèin/Px cupa/Nc deis/Rg
+‘s/Cc cuiridh/Vf mise/Pp an/Td t-/U uisge/Nc ann/Pr
+[2]/X okay/Xfe
+[3]/X ‘n/Q do/Q chòrd/Vs iad/Pp idir/Rg riut/Pr
+[5]/X tha/Vp iad/Pp okay/Xfe
+[3]/X an/Wp iad/Pp a/Q b’/Ws fhearr/Ap na/U bacon/Xfe ?/F
+[?]/X mhmm/I
+[3]/X a/U [Name]/Nn an/Q gabh/Vf thusa/Pp yoghurt/Xfe a-nis/Rt no/Cc kiwi/Xfe fruit/Xfe no/Cc rudeigin/Nc
+[2]/X ghabh/Vs mi/Pp orainsear/Nc anns/Sp an/Td sgoil/Nc
+[3]/X an/Q do/Q rùisg/Vs [Name]/Nn [Name]/Nn dhut/Pr i/Pp ?/F
+[2]/X rùisg/Vs
+[1]/X bha/Vs siud/Pd math/Ap
+nach/Q robh/Vs
+[3]/X glè/Rg mhath/Ap
+[1]/X trobhad/Vm an_seo/Rs
+ith/Vm aig/Sp a’/Td bhòrd/Nc
+[1]/X cuin/U a/Q tha/Vp a’/Td meeting/Xfe agad/Pr an-nochd/Rt ?/F
+dè/U an/Td uair/Nc ?/F
+[3]/X leth-uair/Nc an/Sp deidh/Nf seachd/M ‘s/Cc leth-uair/Nc an/Sp deidh/Nf ochd/M
+ach/Cc chan/Q eil/Vp mi/Pp a’/Sa dol/Nv ach/Sp dhan/Sp [?]/X
+[1]/X leth-uair/Nc an/Sp deidh/Nf a/U h-/U ochd/M
+ò/I bidh/Vf gu/U leòr/Rg an_sin/Rs
+tha/Vp mi/Pp a’/Sa creidsinn/Nv
+dè/U tha/Vp thu/Pp ag/Sa iarraidh/Nv a/U [Name]/Nn
+[2]/X tha/Vp mi/Pp ag/Sa iarraidh/Nv yoghurt/Xfe
+[1]/X yoghurts/Xfe ò/I [?]/X a/Q bheil/Vp ?/F
+[2]/X chan/Q eil/Vp
+[1]/X ò/I uill/I tha/Vp mi/Pp sgìth/Ap

@@ -1,0 +1,151 @@
+o/Sp chionn/Nf mòran/Nc bhliadhnaichean/Nc air/Sp n-/U ais/Nf bhiodh/Vh
+mur'/Cs robh/Vs laghannan/Nc cearta/Aq a's/Sp na/Td h-/U Eileanan/Nc
+bhiodh/Vh muinntir/Nc creicheadh/Nc a'/Sa tighinn/Nv agus/Cc a'/Sa sguabadh/Nv leotha/Pr bheathaichean/Nc
+cha/Q robh/Vs e/Pp gu/Sp deifir/Nc
+c'à/U faigheadh/Vh iad/Pp iad/Pp
+chruinnicheadh/Vh iad/Pp dròbh/Nc bheathaichean/Nc
+agus/Cc thoireadh/Vh iad/Pp
+bheireadh/Vh iad/Pp leoth'/Pr iad/Pp
+agus/Cc bha/Vs iad/Pp a'/Sa toirt/Nv uamhas/Nc o/Sp dhaoine/Nc bochda/Aq de/Sp bheathaichean/Nc
+ach/Cc bha/Vs feadhainn/Nc ann/Pr
+a/Q bha/Vs '/Sa feuchainn/Nv ri/Sp stad/Nc a/U chur/Nv air/Sp na/Td rudan/Nc
+a/Q bh'/Vs ann_a_shin/Pd
+agus/Cc bha/Vs aon/M fhear/Nc a's/Sp an/Td dùthaich/Nc seo/Dd ann_an/Sp Uibhist/Nt an_uairsin/Rt
+ris/Sp an/Q cainnte/Vh Mac/U Iain/Nn 'ic/U Sheumais/Nn
+agus/Cc aig/Sp an/Td àm/Nc a/Q bha/Vs sin/Pd an_còmhnaidh/Rt bhiodh/Vh dà/M fhear/Nc 'eug/M a'/Sa falbh/Nv an/Sp dèidh/Nf a'/Td chief/Xfe a/Q bhiodh/Vh a-sin/Rs an/Td àrd-dhuine/Nc
+agus/Cc bha/Vs e/Pp
+'latha/Nc bha/Vs seo/Pd a/Q bha/Vs e/Pp '/Sa dol/Nv a-null/Rs a/Sp Bheinn_na_Faoghla/Nt
+agus/Cc nuair/Cs a/Q bha/Vs iad/Pp dìreach/Rg a-null/Rs aig/Sp an/Td fhadhail/Nc ann_a_shin/Rs
+chual'/Vs iad/Pp eubh/Nc agus/Cc eubh/Nc a'/Td ghoirt/Nc o/Sp boireannaich/Nc
+agus/Cc thuirt/Vs Mac/U Iain/Nn 'ic/U Sheumais/Nn
+ris/Sp a’/Td chuideachd/Nc
+a/Q bha/Vs còmhla/Rg ris/Pr
+'s/Wp fhearr/U dhuinn/Pr tilleadh/Nv ars’/Vs esan/Pp dìreach/Rg
+far/Cs a/Q bheil/Vp sinn/Pp
+agus/Cc 's/Wp e/Pp eubh/Nc boireannaich/Nc
+tha/Vp siud/Pd air/Sp bàs/Nc naidheachd/Nc bàs/Nc a/Dp ceud/M mhic/Nc a/U chluinnteil/Nv air_neo/Cc muinntir/Nc na/Td creicheadh/Nc
+a/Q th'/Vp ann/Pr air/Sa tighinn/Nv
+seo/Pd
+mar/Cs a/Q bha/Vs
+thill/Vs iad/Pp
+agus/Cc nuair/Cs a/Q bha/Vs iad/Pp a-nall/Rs ann_a_shin/Rs aig/Sp a’/Td Chaiginn/Nc
+thug/Vs iad/Pp an/Td aire/Nc do/Sp bheathaichean/Nc 'gan/Sap cromadh/Nv a-nuas/Rs a/Sp Ghriomasaigh/Nt
+agus/Cc ghearr/Vs iad/Pp romhpa/Pr tarsainn/Sp Fadhail_an_Eilein_Shlignich/Nt
+agus/Cc thàinig/Vs iad/Pp gu/Sp eilean/Nc ann_a_shin/Rs
+ris/Sp an/Q can/Vf iad/Pp Eilean_na_Còmhraig/Nt
+'s/Wp e/Pp
+th'/Vp air/Pr chun/Sp a’/Td latha/Nc 'n_diugh/Rt
+agus/Cc dh’/U fheuch/Vs iad/Pp ri/Sp na/Td beathaichean/Nc a/U thilleadh/Nv air/Sp na/Td daoine/Nc bha/Vs sin/Pd
+agus/Cc dè/U na/Td daoine/Nc bh'/Vs ann/Pr ach/Sp Tearaich/Nc
+agus/Cc dh’/U fheuch/Vs iad/Pp ri/Sp na/Td beathaichean/Nc a/U thilleadh/Nv orra/Pr
+'s/Cc cha/Q deachaidh/Vs aca/Pr air/Sp an/Dp tilleadh/Nv idir/Rg an_uairsin/Rt
+agus/Cc thug/Vs Mac/U Iain/Nn 'ic/U Sheumais/Nn òrdan/Nc dhaibh/Pr tilleadh/Nv air/Sp n-/U ais/Nf
+agus/Cc gun/Q d'_rachadh/Vh iad/Pp a/Sp Chàirinis/Nt
+agus/Cc chaidh/Vs iad/Pp a/Sp Chàirinis/Nt
+agus/Cc chaidh/Vs iad/Pp a'/Sp falach/Nc ann_an/Sp àiteigin/Nc ann_an/Sp Càirinis/Nt ann_a_shin/Rs
+agus/Cc thàinig/Vs na/Td Tearaich/Nc le/Sp na/Td beathaichean/Nc
+agus/Cc ghabh/Vs iad/Pp suas/Rs ann_a_shineach/Rs gu/Sp druim/Nc àrd/Aq
+a/Q th'/Vp ann_an/Sp Càirinis/Nt faisg/Ap air/Sp an/Td teampall/Nc
+agus/Cc chaidh/Vs iad/Pp a-staigh/Rs ann_a_shin/Rs agus/Cc gu/Sp dinneir/Nc a/U ghabhail/Nv
+agus/Cc bha/Vs iad/Pp a-staigh/Rs 'nan/Sp suidhe/Nv ann_a_shin/Rs a'/Sa gabhail/Nv an/Dp dìnneireach/Nc
+agus/Cc thuirt/Vs fear/Nc dhe/Sp na/Td Tearaich/Nc
+ithidh/Vf mi/Pp 'n/Td grèim/Nc tha/Vp seo/Pd ars’/Vs esan/Pp olc/Nc air/Sp mhath/Nc Mac/U Iain/Nn 'ic/U Sheumais/Nn
+bha/Vs Mac/U Iain/Nn 'ic/U Sheumais/Nn
+air/Sp toll/Nc
+a/Q bh'/Vs air/Sp a’/Td bhalla/Nc dìreach/Rg mu/Sp choinneamh/Nc
+toll/Nc a/Q bh'/Vs air/Sp a’/Td bhalla/Nc
+agus/Cc saighead/Nc aige/Pr
+agus/Cc thuirt/Vs e/Pp
+mheall/Vs mo/Dp làmh/Nc mi/Pp ars’/Vs esan/Pp
+neo/Cc cha/Q dean/Vf thu/Pp sin/Pd
+agus/Cc dh’/U fheuch/Vs e/Pp saighead/Nc air/Sp an/Td duine/Nc
+agus/Cc chuir/Vs e/Pp dìreach/Rg ann_an/Sp ubhal/Nc a’/Td sgòrnain/Nc aige/Pr i/Pp
+agus/Cc bhrùchd/Nc càch/Nc a-mach/Rs
+agus/Cc thòisich/Vs am/Td batal/Nc timcheall/Rs mun/Sp an/Td teampall/Nc
+agus/Cc sìos/Rs leis/Sp a’/Td leathad/Nc ann_a_shin/Rs bha/Vs fèith/Nc ann_a_shineach/Rs
+'s/Wp e/Pp Fèithe/Nc na/Td Faladh/Nc
+a/Q th'/Vp orra/Pr chun/Sp a’/Td latha/Nc 'n_diugh/Rt
+bha/Vs iad/Pp ri/Sa chantail/Nv
+gu/Q robh/Vs an/Td fhèithe/Nc sin/Pd dearg/Ap leis/Sp an/Td fhuil/Nc aca/Pr
+ma_dheireadh/Rt cha/Q robh/Vs ach/Sp triùir/Nc dhe/Sp na/Td Tearaich/Nc beò/Ap
+agus/Cc dh’/U fhalbh/Vs iad/Pp
+agus/Cc rinn/Vs iad/Pp air/Sp àite/Nc
+ris/Sp an/Q canadh/Vh iad/Pp Comraich_na_h-Eaglais/Nt a's/Sp a’/Td Bhaile_Shear/Nt
+agus/Cc nan/Q toireadh/Vh iad/Pp a-mach/Rs sin/Pd
+cha/Q robh/Vs lagh/Nc sam_bith/Aq
+a/Q ghabhadh/Vh gnothach/Nc riutha/Pr
+agus/Cc co-dhiubh/Rg dh’/U fhalbh/Vs na/Td h-/U Uibhistich/Nc as/Sp an/Dp dèidh/Nf
+agus/Cc thug/Vs iad/Pp an/Td ath/Ar bhatal/Nc air/Sp oitir/Nc a/Q
+th'/Vp ann_a_shineach/Rs a-mach/Rs o/Sp chroit/Nc
+a/Q bh'/Vs aig/Sp Dòmhnall/Nn Iain/Nn 'ic/U 'urchaidh/Nn
+'s/Wp e/Pp Calum/Nc a’/Td Chùbair/Nc
+a/Q th'/Vp air/Sp a’/Td chroit/Nc sin/Dd an-diugh/Rt
+agus/Cc thug/Vs iad/Pp an/Td ath/Ar bhatal/Nc ann_a_shin/Rs
+agus/Cc chuireadh/Vs às/Pr dha/Sp na/Td Tearaich/Nc
+agus/Cc 's/Wp e/Pp Oitir_'ic_Dhòmhnaill_Glais/Nt
+a/Q chanar/Vf ris/Sp an/Td oirtir/Nc sin/Dd fhathast/Rt
+agus/Cc tha/Vp 'n/Td triùir/Nc
+a/Q mharbhadh/Vs orra/Pr
+tha/Vp iad/Pp air/Sa an/Dp tìodhlaigeadh/Nv air/Sp croit/Nc Chalum/Nn a’/Td Chùbhair/Nt shuas/Rs
+agus/Cc cha/Q robh/Vs air/Sp a-sin/Pd ach/Sp sin/Pd fhèin/Px
+thilleadh/Vs na/Td beathaichean/Nc chun/Sp nan/Td daoine/Nc
+o/Sp 'n/Q tugadh/Vs iad/Pp
+'s/Cc co-dhiubh/Rg 's/Cc bha/Vs Blàr/Nc Chàirinis/Nt seachad/Rg
+ach/Cc bha/Vs aon/M fhear/Nc dhe/Sp na/Td Tearaich/Nc
+a/Q fhuair/Vs teicheadh/Nc
+agus/Cc fhuair/Vs e/Pp co-dhiubh/Rg air/Sp n-/U ais/Nf dha/Sp na/Td Hearadh/Nt an/Sp dòigh/Nc air_choireigin/Aq
+agus/Cc bha/Vs iad/Pp
+bha/Vs seo/Pd Mac/U Iain/Nn 'ic/U Sheumais/Nn
+an/Sp ceann/Nc bliadhna/Nc a'/Sa dol/Nv dhan/Sp Eilean_Sgitheanach/Nt a/U dh’/U iarraidh/Nv [?]/X
+agus/Cc dh’/U fhalbh/Vs iad/Pp
+agus/Cc bàt'/Nc aca/Pr
+agus/Cc 's/Wp e/Pp bàtaichean/Nc fo/Sp sheòl/Nc 'iodh/Vh aig/Sp na/Td h-/U amannan/Nc a/Q bha/Vs sin/Pd ann/Pr
+dh’/U fhabh/Vs iad/Pp co-dhiubh/Rg
+agus/Cc thàinig/Vs i/Pp cho/Rg garbh/Rg orra/Pr
+agus/Cc dh’/U fhuadaicheadh/Vs iad/Pp
+agus/Cc c'à/U 'n/Q deachaidh/Vh iad/Pp air/Sp tìr/Nc ach/Sp aig/Sp caisteal/Nc Mhic_Leòid/Nn na/Td Hearadh/Nt
+agus/Cc cha/Q robh/Vs cothrom/Nc air/Pr
+bha/Vs fhios/Nc aca/Pr
+gu/Q robh/Vs iad/Pp
+thug/Vs Mac/U Iain/Nn 'ic/U Sheumais/Nn
+thuirt/Vs e/Pp
+neist/Rg fhearaibh/Nc ars’/Vs esan/Pp bithibh/Vm 'nur/Sp faireachadh/Nv
+thoradh/Cc 's/Wp dòcha/U
+gum/Q bi/Vf blàr/Nc againn/Pr ri/Sa chur/Nv a-seo/Rs
+ach/Cc thèid/Vf sinn/Pp air/Sp tìr/Nc co-dhiubh/Rg
+agus/Cc bha/Vs bàta/Nc beag/Aq aca/Pr
+'s/Cc chaidh/Vs iad/Pp air/Sp tìr/Nc
+agus/Cc ò/I rinn/Vs na/Td Tearaich/Nc toileachadh/Nc mòr/Aq riutha/Pr Mac/U Leòid/Nn agus/Cc a’/Td chuideachd/Nc
+a/Q bh'/Vs air/Sp a/Dp chùl/Nc fhèin/Px
+chuireadh/Vs gu/Sp biadh/Nc iad/Pp co-dhiubh/Rg do/Sp sheòmar/Nc mòr/Aq
+a/Q bh'/Vs ann_a_shin/Rs
+agus/Cc chuireadh/Vs na/Td Tearaich/Nc air/Sp an/Td dàrna/M taobh/Nc dhen/Sp bhòrd/Nc agus/Cc na/Td h-/U Uibhistich/Nc air/Sp an/Td taobh/Nc eile/Aq
+agus/Cc mun/Cs do/Q thòisich/Vs iad/Pp air/Sp am/Dp biadh/Nc
+thuirt/Vs fear/Nc dhe/Sp na/Td Tearaich/Nc
+mheall/Vs mo/Dp bharail/Nc mi/Pp ars’/Vs esan/Pp
+neo/Cc 's/Wp ann/Pr a’/Td bhliadhna/Nc chun/Sp an_diugh/Rt
+a/Q thugadh/Vs Blàr/Nc Chàirinis/Nt
+bha/Vs a_h-uile/Dq fear/Nc dhe/Sp na/Td h-/U Uibhistich/Nc
+chuir/Vs iad/Pp a'/Td làmh/Nc 'sa/Sp chlaidheamh/Nc
+agus/Cc bha/Vs 'm/Td batal/Nc air/Sp thuar/Nc a/U bhith/Nv air/Sp a’/Td bhonn/Nc
+ach/Cc thuirt/Vs Mac/U Leòid/Nn riutha/Pr
+gabhaibh/Vm an/Td gnothach/Nc air/Sp ur/Dp socair/Nc ars’/Vs esan/Pp a/U bheadragain/Nc dhuibh/Aq ars’/Vs esan/Pp
+chan/Wp uair/Nc chuimhneachain/Nc seo/Pd
+agus/Cc cha/Q bhi/Vf dad/Nc dhe/Sp leithid/Nc sin/Dd ann/Pr
+agus/Cc gabhaidh/Vm ur/Dp dinneir/Nc
+agus/Cc na/Q biodh/Vm an/Td còrr/Nc ann/Pr ach/Sp sin/Pd
+sin/Pd
+mar/Cs a/Q bha/Vs
+ghabh/Vs iad/Pp am/Dp biadh/Nc
+'s/Cc ghabh/Vs iad/Pp an/Dp dinneir/Nc
+agus/Cc nuair/Cs a/Q bha/Vs iad/Pp a'/Sa dol/Nv a-mach/Rs a's/Sp an/Td t-/U sabhal/Nc
+thàinig/Vs tè/Nc dhe/Sp na/Td searbhantan/Nc
+'s/Cc iad/Pp a'/Sa clìoradh/Nv a’/Td bhùird/Nc air_falbh/Rs 's/Cc gnothaichean/Nc
+thàinig/Vs tè/Nc aca/Pr faisg/Ap air/Sp Mac/U Iain/Nn 'ic/U Sheumais/Nn
+agus/Cc chuir/Vs i/Pp
+chuir/Vs i/Pp sanais/Nc ri/Sp a/Dp chluais/Nc
+agus/Cc thuirt/Vs i/Pp ris/Pr
+feuch/Vm o/Sp na/Q chunnaic/Vs sibh/Pp riamh/Rt ars’/Vs ise/Pp
+nach/Q caidil/Vf sibh/Pp 'san/Sp t-/U sabhal/Nc a-nochd/Rt
+thoradh/Cc 's/Wp e/Pp 'n/Td t-/U àite/Nc
+a's/Sp a/Q bheil/Vp iad/Pp airson/Nf ur/Dp cur/Nv

@@ -1,0 +1,239 @@
+[1]/X A/Q bheil/Vp na/Td caoraich/Nc aig/Sp [Name]/Nn an/Sp lùib/Nf nan/Td caoraich/Nc agad-sa/Pr an/Td fheadhainn/Nc a-mach/Rs a/Sp [Placename]/Nt
+[4]/X chan/Q eil/Vp
+tha/Vp iad/Pp leotha/Pr fhèin/Px
+cha/Q chreid/Vf mi/Pp
+[1]/X leotha/Pr fhèin/Px ?/F
+[4]/X [?]/X leotha/Pr fhèin/Px
+carson/U ?/F
+[1]/X chunna/Vs aon/M tè/Nc an-diugh/Rt
+tha/Vp i/Pp dona/Ap dona/Ap le/Sp glup/Nc ri/Sp taobh/Nc a'/Td rathaid/Nc
+bha/Vs sprogan/Nc uabhasach/Aq oirre/Pr
+[4]/X ò/I uill/I chuala/Vs mi/Pp [Name]/Nn [Name]/Nn Òig/Aq Ruaidh/Aq
+thachair/Vs e/Pp
+gu/Q robh/Vs e/Pp '/Sa smaointinn/Nv
+gur/Wp ann/Pr le/Sp [Name]/Nn [Name]/Aq
+a/Q tha/Vp an/Td tè/Nc sin/Dd co-dhiubh/Rg
+[1]/X bha/Vs mi/Pp a'/Sa smaointinn/Nv
+nach/Wp ann/Pr leatsa/Pr
+a/Q bha/Vs i/Pp idir/Rg ach/Cc
+[4]/X cà/U 'il/Vp ?/F
+shìos/Rs mun/Sp a’/Td mhuileann/Nc
+an/Wp ann/Pr ?/F
+[1]/X ò/I bha/Vs i/Pp '/Sa dol/Nv shì/X
+bha/Vs i/Pp shìos/Rs aig/Sp a’/Td chuaraidh/Nc an_sin/Rs
+ò/I bha/Vs i/Pp dìreach/Rg sprogan/Nc uabhasach/Aq oirre/Pr
+[3]/X bheil/Vp [Name]/Nn Òg/Aq Ruaidh/Aq air/Sa tuilleadh/Nc apportionments/Xfe fhaighinn/Nv ?/F
+a/Q bheil/Vp
+[4]/X chan/Q eil/Vp fhios/Nc a'm/Pr
+carson/U ?/F
+[1]/X tha/Vp e/Pp a'/Sa feansadh/Nv a-muigh/Rs
+nach/Q eil/Vp
+[3]/X nach/Q eil/Vp feansa/Nc [?]/X a-muigh/Rs ceann/Nc a'/Td rathaid/Nc
+[4]/X ò/I 's/Wp ann/Pr
+a/Q rinn/Vs sinn/Pp sin/Pd
+thoireadh/Cc gum/Q faigheamaid/Vh na/Td caoraich/Nc a/U chumail/Nv air/Sp leth/Nc
+gum/Q faigheamaid/Vh am/Dp biathadh/Nv air/Sp leth/Nc
+so/Xfe cumaidh/Vf e/Pp a-muigh/Rs as/Sp t-/U samhradh/Nc 'sa/Sp bheinn/Nc iad/Pp
+so/Xfe bha/Vs gille/Nc [Name]/Nn Bhig/Aq a'/Sa ràdh/Nv rium/Pr latha/Nc
+a/Q bha/Vs mi/Pp shuas/Rs leis/Sp a’/Td chàr/Nc
+gun/Q robh/Vs count/Xfe aige/Pr an/Td t-/U seachdainn/Nc sin/Pd dìreach/Rg
+cuin'/U [?]/X
+[2]/X ò/I bha/Vs latha/Nc
+a/Q bha/Vs mise/Pp ann_an/Sp [Placename]/Nt
+bha/Vs [Name]/Nn a'/Sa ràdh/Nv
+gu/Q robh/Vs count/Xfe aca/Pr latha/Nc
+[4]/X [?]/X seachdainn/Nc sa/Dd chaidh/Vs
+[2]/X seachdainn/Nc Dimàirt/Nc sa/Dd chaidh/Vs no/Cc Diciadain/Nc
+[5]/X tha/Vp iad/Pp a'/Sa dèanamh/Nv tòrr/Nc dhiubh/Pr feumaidh/Vf [?]/X an-dràsd/Rt
+[4]/X chuala/Vs mi/Pp
+gun/Q robh/Vs [Name]/Nn a'/Sa faighinn/Nv croit/Nc 'san/Sp [Placename]/Nt shuas/Rs
+[1]/X cò/U ?/F
+[4]/X [Name]/Nn a’/Td bhean/Nc aige/Pr co-dhiubh/Rg
+[2]/X cò/U tha/Vp sin/Pd ?/F
+[3]/X ò/I àidh/I [Name]/Nn
+[2]/X cò/U tha/Vp [Name]/Nn ?/F
+[4]/X [Name]/Nn
+[2]/X cò/U tha/Vp sin/Pd ?/F
+[4]/X tha/Vp e/Pp pòsda/Ar aig/Sp nighean/Nc
+[5]/X [Name]/Nn [Name]/Nn
+[2]/X ò/I right/Xfe ò/I right/Xfe
+[4]/X bha/Vs e/Pp ann_a_sheo/Rs reimhe/Pr aig/Sp an/Td department/Xfe
+'s/Cc dh’/U fhalbh/Vs iad/Pp an_uair_sin/Rt
+'s/Cc tha/Vp e/Pp air/Sa tilleadh/Nv a-rithist/Rt
+[5]/X tha/Vp e/Pp air/Sa tilleadh/Nv
+[2]/X bidh/Vf e/Pp ag/Sa obair/Nv an_seo/Rs
+tighinn/Nv a/U dh’/U obair/Nv
+a/Q tha/Vp e/Pp an_seo/Rs
+[4]/X bha/Vs e/Pp ag/Sa obair/Nv air/Sp a-seo/Pd mar-thà/Rt
+'s/Cc dh’/U fhalbh/Vs iad/Pp
+so/Xfe tha/Vp e/Pp '/Sa tilleadh/Nv a-rithist/Rt
+[3]/X an/Q d’/Q fhuair/Vs duine/Nc a’/Td chroit/Nc aig/Sp [Placename]/Nt siud/Dd o/Sp
+[2]/X cò/U 'n/Td tè/Nc ?/F
+[3]/X fhios/Nc agad/Pr
+far/Cs a/Q bheil/Vp [Name]/Nn
+cheannaich/Vs i/Pp an/Td taigh/Nc
+bha/Vs a’/Td chroit/Nc aice/Pr 'ga/Sap reic/Nv
+[5]/X a/Q robh/Vs a’/Td chroit/Nc 'ga/Sap reic/Nv ?/F
+dè/U thachair/Vs ri/Sp sùil/Nc aice/Pr ?/F
+[1]/X [?]/X a/Q bha/Vs a'/Sp tighinn/Nv a-staigh/Rs
+'s/Cc bhuail/Vs i/Pp oirre/Pr
+[5]/X ò/I thì/I 's/Wp i/Pp
+tha/Vp dona/Ap an/Td t-/U sùil/Nc aice/Pr
+right/Xfe round/Xfe her/Xfe
+[3]/X bha/Vs a’/Td chroit/Nc 's/Cc an/Td taigh/Nc 'gan/Sap reic/Nv
+'s/Cc cha/Q d’/Q fhuair/Vs ise/Pp an/Td taigh/Nc
+[4]/X cò/U leis/Pr
+a/Q bha/Vs a’/Td chroit/Nc ?/F
+[3]/X [Name]/Nn
+[2]/X [Name]/Nn
+'se/Wp [Name]/Nn [Name]/Nn
+[5]/X [?]/X
+'s/Wp i/Pp a’/Td bhanntrach/Nc aig/Sp [Name]/Nn
+chan/Wp e/Pp [Name]/Nn ach/Sp am/Td fear/Nc eile/Aq
+[2]/X [Name]/Nn [Name]/Nn
+[5]/X [Name]/Nn [Name]/Nn
+[2]/X am/Td bungalow/Xfe mòr/Aq tha/Vp siud/Pd an/Sp [Placename]/Nt
+an/Q do/Q dhealaich/Vs iad/Pp a’/Td chroit/Nc 's/Cc an/Td taigh/Nc ?/F
+reic/Vs iad/Pp air/Sp leth/Nc iad/Pp
+an/Wp e/Pp
+'s/Wp dòcha/U
+gun/Q do/Q dhealaich/Vs iad/Pp ris/Sp a’/Td chroit/Nc o/Sp chionn/Nf fada/Aq
+[3]/X ò/I cha/Q do/Q dhealaich/Vs
+cha/Q do/Q dhealaich/Vs [?]/X
+gun/Q robh/Vs ise/Pp ann/Pr
+[2]/X cha/Q robh/Vs
+[4]/X cò/U an/Td tè/Nc bha/Vs siud/Pd
+a/Q bha/Vs 'na/Sp croiteadh/Nc do/Sp bhean/Nc [Name]/Nn Mrs/Y [Name]/Nn [Name]/Nn
+[2]/X ò/I àidh/I [Name]/Nn
+chan/Q eil/Vp fhios/Nc a'm/Pr
+cò/U an/Td tè/Nc tha/Vp sin/Pd ?/F
+chuala/Vs mi/Pp an/Td t-/U ainm/Nc
+[4]/X 'san/Sp [Placename]/Nt
+[2]/X [Name]/Nn chan/Wp e/Pp
+a’/Td chailleach/Nc tha/Vp siudach/Pd fhios/Nc agad/Pr
+[4]/X ach/Cc 's/Wp dòcha/U
+nach/Q eil/Vp i/Pp a'/Sa fuireach/Nv an_seo/Rs idir/Rg
+ged/Cs a/Q tha/Vp a’/Td chroit/Nc aice/Pr
+[2]/X chan/Wp e/Pp a’/Td chailleach/Nc tha/Vp siud/Pd màthair/Nc a'/Td bhoireannaich/Nc
+a/Q bha/Vs pòsda/Ar aig/Sp [Name]/Nn [Name]/Nn
+chan/Wp e/Pp sin/Pd an/Td tè/Nc
+a/Q bh'/Vs ann/Pr
+bha/Vs cailleach/Nc
+a’/Td chailleach/Nc sin/Dd bha/Vs i/Pp ann/Pr co-dhiubh/Rg
+tha/Vp i/Pp shìos/Rs 'san/Sp [Placename]/Nt
+[1]/X bean/Nc a'/Td [Name]/Nn
+[2]/X 's/Wp e/Pp
+chan/Wp e/Pp i/Pp sin/Dd
+a/Q bhiodh/Vh ann/Pr
+[1]/X och/I chan/Wp e/Pp
+bhiodh/Vh iad/Pp sin/Dd aig/Sp àidh/I
+[3]/X 's/Cc an/Q robh/Vs hearing/Xfe [Placename]/Nt ann/Pr fhathast/Rt aig/Sp [Name]/Nn
+an/Q robh/Vs ?/F
+[4]/X dè/U hearing/Xfe
+a/Q bha/Vs siud/Pd ?/F
+[3]/X Aig/Sp [Name]/Nn [Name]/Nn
+[2]/X Rubha/Nc beag/Aq
+a/Q tha/Vp e/Pp ag/Sa iarraidh/Nv shìos/Rs aig/Sp taigh/Nc [Name]/Nn [Name]/Nn
+[4]/X bha/Vs dùil/Nc a'm/Pr
+gun/Q robh/Vs e/Pp a'/Sa faighinn/Nv na/Td croiteadh/Nc
+[2]/X nach/Wp e/Pp sin/Pd e/Pp
+siud/Pd a’/Td chroit/Nc
+nach/Wp e/Pp
+[3]/X [?]/X assignment/Xfe
+nach/Q eil/Vp
+bidh/Vf e/Pp a'/Sa cur/Nv am/Td baile/Nc 'na/Sp aghaidh/Nc
+[5]/X cò/U a’/Td chroit/Nc
+a/Q bh'/Vs ann/Pr ?/F
+[3]/X tha/Vp croit/Nc mhòr/Aq ann/Pr
+[4]/X tha/Vp dà/M thaobh/Nc a'/Td rathaid/Nc mhòir/Aq ann/Pr
+[1]/X tha/Vp
+tha/Vp i/Pp a'/Sa dol/Nv sìos/Rs pìos/Nc
+[5]/X cò/U a’/Td chroit/Nc
+a/Q bh'/Vs ann/Pr ?/F
+[4]/X bha/Vs e/Pp a'/Sa dol/Nv sìos/Rs gu/Sp [Placename]/Nt
+[1]/X mar/Cs a/Q tha/Vp taigh/Nc [?]/X
+[3]/X piuthar/Nc [Name]/Nn [Name]/Aq
+[5]/X ò/I àidh/I
+[2]/X [Name]/Nn [Name]/Nn Ruaidh/Aq
+[4]/X chan/Wp e/Pp ach/Sp croit/Nc [Name]/Nn [Name]/Nn
+[2]/X an/Wp e/Pp ?/F
+[3]/X tha/Vp
+'s/Wp ann/Pr aig/Sp piuthar/Nc [Name]/Nn Ruaidh/Aq
+a/Q tha/Vp i/Pp ge-tà/Rg
+[4]/X 's/Wp ann/Pr
+[2]/X ciamar/U a/Q fhuair/Vs ise/Pp i/Pp ?/F
+[4]/X thug/Vs [Name]/Nn dhi/Pr i/Pp
+mun/Cs do/Q bhàsaich/Vs e/Pp
+[2]/X an/Q tug/Vs ?/F
+àidh/I ?/F
+'s/Cc an/Q robh/Vs croit/Nc aca/Pr fhèin/Px idir/Rg ?/F
+[4]/X bha/Vs
+[2]/X far/Cs an/Q robh/Vs croit/Nc [Name]/Nn [Name]/Nn
+bha/Vs croit/Nc ann/Pr
+[4]/X aig/Sp [Name]/Nn tha/Vp i/Pp sin/Dd
+[1]/X aig/Sp [Name]/Nn mhmm/I
+[5]/X an/Q robh/Vs e/Pp shuas/Rs à/Sp [Placename]/Nt ?/F
+chunna/Vs mi/Pp e/Pp 'san/Sp sgoil/Nc an/Td latha/Nc reimhe/Pr
+an/Q robh/Vs e/Pp shuas/Rs aig/Sp a'/Td Council/Xfe Meeting/Xfe ?/F
+[3]/X cha/Q robh/Vs
+'s/Wp ann/Pr aig/Sp a’/Td choinneamh/Nc sin/Dd eile/Aq
+a/Q bha/Vs ann_an/Sp [Placename]/Nt air/Sp poverty/Xfe air/Sp an/Td oidhche/Nc sin/Dd
+[5]/X dè/U bh'/Vs ann/Pr ?/F
+[3]/X coinneamh/Nc mu/Sp dheidhinn/Nf
+poverty/Xfe in/Xfe the/Xfe Western/Xfe Isles/Xfe
+Mohamed/Nn Sarwar/Nn is/Cc daoine/Nc mar/Sp sin/Pd a-bhos/Rs
+ceithir/M MPs/Y a-nuas/Rs à/Sp Westminster/Nt a'/Sa discussadh/Nv
+poverty/Xfe in/Xfe the/Xfe Western/Xfe Isles/Xfe
+[5]/X ò/I thallaibh/Vm
+[2]/X cò/U ris/Pr
+a/Q bha/Vs iad/Pp ga/Sap dhiscussadh/Nv ?/F
+cò/U bh'/Vs ann/Pr
+ò/I cha/Q robh/Vs duin'/Nc ann/Pr ach/Sp na/Td councillors/Xfe
+[3]/X bha/Vs na/Td councillors/Xfe ann/Pr
+chan/Q eil/Vp fhios/Nc a'm/Pr
+an/Q robh/Vs duine/Nc eile/Aq ann/Pr
+[1]/X cuin'/U a/Q bha/Vs sin/Pd ann/Pr an/Td oidhche/Nc reimhe/Pr ?/F
+[5]/X oidhche/Nc Mhàirt/Nc feumaidh/Vf
+[2]/X uill/I cuiridh/Vf e/Pp .../F
+[1]/X [Name]/Nn [Name]/Nn
+[2]/X 's/Wp e/Pp prìs/Nc a'/Td fuel/Xfe
+a/Q chuireas/Vf às/Pr do/Sp dhaoine/Nc an_seo/Rs co-dhiubh/Rg
+[1]/X thachair/Vs iad/Pp rium-sa/Pr co-dhiubh/Rg
+[5]/X ma/Sp housing/Xfe 's/Wp dòcha/U
+[4]/X 's/Wp e/Pp [Name]/Nn [Name]/Nn
+a/Q chuir/Vs an/Sp aghaidh/Nc gille/Nc [Name]/Nn a'/Sa faighinn/Nv na/Td croiteadh/Nc sin/Dd reimhe/Pr
+[5]/X nach/Wp e/Pp
+bha/Vs grod/Ap
+[4]/X seach/Cs gun/Q robh/Vs e/Pp sublet/Xfe aige/Pr
+[5]/X tha/Vp mi/Pp a'/Sa ràdh/Nv
+nach/Wp e/Pp
+bha/Vs grod/Ap
+[3]/X feumaidh/Vf
+gun/Q robh/Vs e/Pp an/Sp aghaidh/Nc an/Td fhear-sa/Nc cuideachd/Rg ma-thà/Rg [?]/X
+[5]/X nach/Wp e/Pp
+a/Q tha/Vp suarach/Ap agus/Cc airson/Nf gillean/Nc daoine/Nc òga/Aq a/U bhith/Nv a-staigh/Rs
+[4]/X pension/Xfe a/Q th'/Vp aige/Pr [?]/X
+na/Q tha/Vp de/Sp chroitean/Nc eile/Aq aige/Pr
+[1]/X bha/Vs e/Pp 'san/Sp sgoil/Nc latha/Nc
+'s/Cc bha/Vs e/Pp agam/Pr aig/Sp àm/Nc dìnnearach/Aq
+[5]/X [Name]/Nn chunna/Vs mi/Pp e/Pp a-staigh/Rs a'/Sa gabhail/Nv a/Dp dhìnneir/Nc
+[4]/X 's/Wp ann/Pr aige/Pr
+a/Q tha/Vp croit/Nc [Name]/Nn [Name]/Nn agus/Cc [Name]/Nn Ruaidh/Aq cuideachd/Rg aig/Sp
+[5]/X [Name]/Nn [Name]/Nn
+[4]/X bha/Vs e/Pp uaireigin/Rt
+bha/Vs iad/Pp gu/U math/Rg fad'/Rg a-mach/Rg air/Sp a_chèile/Px e/Pp fhèin/Px 's/Cc [Name]/Nn
+[1]/X cha/Q robh/Vs iad/Pp measail/Ap air/Sp [Name]/Nn [Name]/Nn co-dhiubh/Rg duin'/Nc aca/Pr
+[4]/X [Name]/Nn [Name]/Nn bha/Vs e/Pp ag/Sa innse/Nv uaireigin/Rt
+'s/Wp e/Pp
+[2]/X bha/Vs e/Pp cho/Rg leisg/Ap
+[4]/X bha/Vs e/Pp ag/Sa innse/Nv
+bha/Vs e/Pp a'/Sa buain/Nv aig/Sp a’/Td bhuain-mhòine/Nc aig/Sp [Name]/Nn neo/Cc rudeigin/Nc
+'s/Cc chaidh/Vs e/Pp fhèin/Px aig/Sp [Name]/Nn [Name]/Nn
+far/Cs an/Q robh/Vs e/Pp
+feuch/Vm [?]/X
+an/Q toireadh/Vh e/Pp a/Sp bhuain-mhòine/Nc aige/Pr làrna-mhàireach/Rt no/Cc uaireigin/Rt
+so/Xfe co-dhiubh/Rg ars’/Vs [Name]/Nn nuair/Cs a/Q bha/Vs mise/Pp a'/Sa falbh/Nv
+dh’/U èigh/Vs i/Pp as/Sp mo/Dp dhèidh/Nf
+cuimhnich/Vm a-neist/Rg
+tha/Vp feum/Nc ort/Pr ann_a_sheothach/Rs am-màireach/Rt agus/Cc an_earar/Rt cuideachd/Rg agus/Cc gun/Sp char/Nc agam/Pr ri/Sa dhèanamh/Nv
+bha/Vs i/Pp dìreach/Rg 'gam/Sap chumail/Nv o/Sp [Name]/Nn [Name]/Nn
