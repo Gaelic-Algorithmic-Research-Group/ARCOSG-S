@@ -1,0 +1,19 @@
+The normal way of importing a categorised, tagged corpus it in NLTK is as follows: 
+
+>>>>import nltk
+>>>>from nltk.corpus.reader import CategorizedTaggedCorpusReader
+>>> dir = 'add your full directory address here' #on a Mac, you can copy the address of a file or dir using cmd-alt-c
+>>> reader = CategorizedTaggedCorpusReader(dir, r'.+\.txt', cat_file = 'cats.prn')
+
+This gives you access to all of the methods of the CategorizedTaggedCorpusReader class, e.g.:
+
+>>> reader.words()
+['[3]', 'ach', 'bha', 'e', 'neònach', 'nach', 'do', ...]
+>>>reader.categories()
+['conversation', 'fiction', 'formal', 'interview', 'narrative', 'news', 'popular', 'sports']
+>>> reader.tagged_words()
+[('[3]', 'X'), ('ach', 'CC'), ('bha', 'VS'), ...]
+>>> reader.tagged_sents()
+[[('[3]', 'X'), ('ach', 'CC'), ('bha', 'VS'), ('e', 'PP'), ('neònach', 'AP')], [('nach', 'Q'), ('do', 'Q'), ('test', 'XFE'), ('iad', 'PP'), ('na', 'TD'), ('[?]', 'X'), ('leis', 'SP'), ("a'", 'TD'), ('vet', 'XFE'), ('-', 'F')], ...]
+
+If you wish to import ARCOSG-S natively within NLTK, see 'USING_IN_NLTK' within the ARCOSG repository
