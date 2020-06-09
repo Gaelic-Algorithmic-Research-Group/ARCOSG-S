@@ -54,7 +54,7 @@ gun/Q robh/Vs [Name]/Nn a'/Sa faighinn/Nv croit/Nc 'san/Sp [Placename]/Nt shuas/
 [2]/X cò/U tha/Vp [Name]/Nn ?/F
 [4]/X [Name]/Nn
 [2]/X cò/U tha/Vp sin/Pd ?/F
-[4]/X tha/Vp e/Pp pòsda/Ar aig/Sp nighean/Nc
+[4]/X tha/Vp e/Pp pòsda/Av aig/Sp nighean/Nc
 [5]/X [Name]/Nn [Name]/Nn
 [2]/X ò/I right/Xfe ò/I right/Xfe
 [4]/X bha/Vs e/Pp ann_a_sheo/Rs reimhe/Pr aig/Sp an/Td department/Xfe
@@ -115,7 +115,7 @@ a’/Td chailleach/Nc tha/Vp siudach/Pd fhios/Nc agad/Pr
 nach/Q eil/Vp i/Pp a'/Sa fuireach/Nv an_seo/Rs idir/Rg
 ged/Cs a/Q tha/Vp a’/Td chroit/Nc aice/Pr
 [2]/X chan/Wp e/Pp a’/Td chailleach/Nc tha/Vp siud/Pd màthair/Nc a'/Td bhoireannaich/Nc
-a/Q bha/Vs pòsda/Ar aig/Sp [Name]/Nn [Name]/Nn
+a/Q bha/Vs pòsda/Av aig/Sp [Name]/Nn [Name]/Nn
 chan/Wp e/Pp sin/Pd an/Td tè/Nc
 a/Q bh'/Vs ann/Pr
 bha/Vs cailleach/Nc

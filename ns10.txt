@@ -24,7 +24,7 @@ Tha/Vp e/Pp air/Sa tighinn/Nv am/Sp follais/Nc
 gu/Q faodadh/Vh
 gun/Q deach/Vs fuil/Nc air/Sa a/Dp truailleadh/Nv leis/Sp a’/Td ghalair/Nc hepatitis/Xfe C/Y a/U thoirt/Nv do/Sp dhaoine/Nc
 air/Sp a/Q bheil/Vp an/Td tinneas/Nc fala/Nc -/F haemophilia/Xfe -/F airson/Nf suas/Rg ri/Sp bliadhna/Nc as/Sp dèidh/Nf dhan/Sp riaghaltas/Nc a/U bhith/Nv ràdh/Nv
-gu/Q robh/Vs i/Pp sàbhailte/Ar ,/F ann_an/Sp naoi/M ceud/M deug/M ,/F ceithir/M fichead/M 'sa/Cc sia/M deug/M ./F
+gu/Q robh/Vs i/Pp sàbhailte/Av ,/F ann_an/Sp naoi/M ceud/M deug/M ,/F ceithir/M fichead/M 'sa/Cc sia/M deug/M ./F
 Tha/Vp luchd/Nc iomairt/Nc an/Sp dòchas/Nc
 gun/Q toir/Vf am/Td fiosrachadh/Nc ùr/Aq air/Sp Riaghaltas/Nc na/Td h-/U Alba/Nt a’/Td chùis/Nc a/U dheasbud/Nv
 agus/Cc gun/Q cuir/Vf e/Pp spionnadh/Nc a's/Sp an/Td iomairt/Nc airson/Nf airgiod/Nc dìolaidh/Nc mu/Sp choinneimh/Nc
@@ -49,7 +49,7 @@ carson/U a/Q tha/Vp ceathramh/M cuid/Nc de/Sp luchd/Nc obrach/Nc na/Td roinn/Nc 
 Thuirt/Vs Roinn/Nc an/Td Ionmhais/Nc
 gu/Q bheil/Vp an/Td trioblaid/Nc cosg/Nv billean/M not/Nc gach/Dq bliadhna/Nc do/Sp luchd/Nc pàighidh/Nc nan/Td cìs/Nc ./F
 Tha/Vp luchd/Nc obrach/Nc a'/Sa ràdh/Nv
-gur/Wp e/Pp uallach/Nc na/Td h-/U obrach/Nc agus/Cc trioblaidean/Nc inntinn/Nc co-cheangailte/Ar ri/Sp sin/Pd 's/Wp coireach/Ap
+gur/Wp e/Pp uallach/Nc na/Td h-/U obrach/Nc agus/Cc trioblaidean/Nc inntinn/Nc co-cheangailte/Av ri/Sp sin/Pd 's/Wp coireach/Ap
 gu/Q bheil/Vp uidhear/Nc dhiubh/Pr a'/Sa cur/Nv bhuapa/Pr an/Dp dreuchd/Nc ./F
 Tha/Vp poilis/Nc a’/Td Chinn_a_Tuath/Nt a'/Sa rannsachadh/Nv bàs/Nc nighean/Nc ochd/M bliadhna/Nc a/Sp dh’/U aois/Nc ann_an/Sp Abhainn_Abharaon/Nt ann_an/Sp Alanais/Nt a-raoir/Rt ./F
 Chaidh/Vs a’/Td nighean/Nc

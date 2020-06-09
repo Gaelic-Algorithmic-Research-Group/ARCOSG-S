@@ -109,7 +109,7 @@ Thàinig/Vs gàire/Nc beag/Aq air/Sp aodann/Nc Eachainn/Nn ./F
 “/F Tha/Vp ,/F
 ach/Cc chan/Q eil/Vp mi/Pp 'n/Sp dùil/Nc
 gu/Q bheil/Vp beairt-fhuaigheil/Nc na/Sp samhla/Nc cho/Rg coimhlionta/Ap ris/Sp a’/Td bheairt-fhighe/Nc idir/Rg ./F
-'S/Cc cha/Q robh/Vs am/Td proifeasair/Nc cho/Rg fìor/Ar fhoghlaimte/Ar na_bu/U mhotha/Ap :/F
+'S/Cc cha/Q robh/Vs am/Td proifeasair/Nc cho/Rg fìor/Ar fhoghlaimte/Av na_bu/U mhotha/Ap :/F
 bheil/Vp cuimhn'/Nc agad/Pr
 gun/Q deach/Vs e/Pp tro/Sp ghrunnan/Nc bheairtean-fuaigheil/Nc
 mun/Cs do/Q lorg/Vs e/Pp

@@ -35,7 +35,7 @@ nach/Q eil/Vp i/Pp a'/Sa faighinn/Nv ach/Sp trì/M not/Nc san/Sp uair/Nc ,/F
 's/Cc i/Pp ag/Sa iarraidh/Nv
 gun/Q tèid/Vf sin/Pd àrdachadh/Nv chun/Sp an/Td trì/M not/Nc 's/Cc trì/M fichead/M sgillinn/Nc
 a/Q tha/Vp 'n/Td riaghaltas/Nc air/Sa a/U chomharrachadh/Nv mar/Sp an/Td ìre/Nc pàighidh/Nc as/Wp ìsle/Ap
-a/Q tha/Vp ceadaichte/Ar ./F
+a/Q tha/Vp ceadaichte/Av ./F
 Tha/Vp Oifis/Nc a’/Td Phuist/Nc ag/Sa ràdh/Nv
 gu/Q bheil/Vp an/Td fheadhainn/Nc
 a/Q tha/Vp ruigh/Nv oifisean/Nc puist/Nc beaga/Aq ag/Sa obrachadh/Nv air/Sp an/Dp ceann/Nc fhèin/Px
@@ -100,7 +100,7 @@ gu/Q bheil/Vp iad/Pp air/Sa guthan/Nc a/U chluinntinn/Nv a'/Sa tighinn/Nv bho/Sp
 Tha/Vp buidhean/Nc sgrùdaidh/Nc an/Td riaghaltas/Nc air/Sp gnothaichean/Nc niùclasach/Aq ,/F Rawmac/Nn ,/F de/Sp 'n/Td bheachd/Nc
 gun/Q tèid/Vf tuilleadh/Nc grèimeannan/Nc do/Sp stuth/Nc rèidio-beò/Aq a/U lorg/Nv aig/Sp tràigh/Nc Sandside/Nt faisg/Ap air/Sp Dùn_Rath/Nt ./F
 Ach/Cc tha/Vp 'm/Td buidhean/Nc ag/Sa ràdh/Nv
-gu/Q bheil/Vp e/Pp fhathast/Rt sàbhailte/Ar don/Sp a’/Td mhòr-shluagh/Nc a/U bhith/Nv ga/Sap cleachdadh/Nv ./F
+gu/Q bheil/Vp e/Pp fhathast/Rt sàbhailte/Av don/Sp a’/Td mhòr-shluagh/Nc a/U bhith/Nv ga/Sap cleachdadh/Nv ./F
 Anns/Sp an/Td aithisg/Nc bhliadhnail/Aq aca/Pr tha/Vp Rawmac/Nn a'/Sa moladh/Nv stiùirichean/Nc Dhùn_Rath/Nt airson/Nf na/Td h-/U oidhirpean/Nc
 a/Q rinn/Vs iad/Pp gus/Sp lorg/Nc fhaighinn/Nv air/Sp
 cò/U às/Pr a/Q bha/Vs na/Td grèimeannan/Nc rèidio-beò/Aq a'/Sa tighinn/Nv ./F

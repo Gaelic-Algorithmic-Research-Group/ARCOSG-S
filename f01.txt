@@ -19,7 +19,7 @@ ach/Cc a/Dp shùil/Nc air/Sp Màiri/Nn ,/F
 ach/Cc gun/Sp chabhaig/Nc ,/F
 agus/Cc is/Wp dòch'/U air/Sp tè/Nc no/Cc dhà/Pn eile/Aq
 a/Q thigeadh/Vh na/Sp shealladh/Nc ./F
-Bha/Vs e/Pp riaraichte/Ar le/Sp chrannchur/Nc ,/F
+Bha/Vs e/Pp riaraichte/Av le/Sp chrannchur/Nc ,/F
 is/Cc tuathanas/Nc beag/Aq aige/Pr ga/Sap chumail/Nv gun/Sp èis/Nc
 is/Cc a/Dp mhàthair/Nc a'/Sa cumail/Nv an/Td taighe/Nc dha/Pr ./F
 An/Sp dèidh/Nf latha/Nc obrach/Nc bu/Ws tric/Ap leis/Pr a/U dhol/Nv a-staigh/Rs don/Sp bhaile/Nc ,/F don/Sp taigh-òsda/Nc ,/F
@@ -31,7 +31,7 @@ Bha/Vs Tormod/Nn ,/F a/Dp chompanach/Nc bho/Sp àm/Nc sgoile/Nc ,/F daonnan/Rt r
 Bha/Vs iad/Pp ao-coltach/Ap ri/Sp chèile/Px nan/Sp coltas/Nc ,/F
 oir/Cs bha/Vs Iain/Nn dorcha/Ap le/Sp falt/Nc dubh/Aq crasgach/Aq is/Cc sùilean/Nc mear/Aq ,/F
 is/Cc Tormod/Nn bàn/Ap ,/F le/Sp sùilean/Nc neo-chiontach/Aq ,/F gorma/Aq ./F
-Bha/Vs e/Pp làidir/Ap ,/F dèanta/Ar na/Sp bhodhaig/Nc ,/F
+Bha/Vs e/Pp làidir/Ap ,/F dèanta/Av na/Sp bhodhaig/Nc ,/F
 is/Cc bhon/Cs dh'/U fhàg/Vs e/Pp an/Td sgoil/Nc
 bha/Vs e/Pp ag/Sa obair/Nv ann_an/Sp sgoil-marcaidheachd/Nc ,/F
 a/Q bha/Vs nis/Rt a'/Sa coimhead/Nv thairis/Rg air/Sp na/Td h-/U eich/Nc ./F
@@ -246,7 +246,7 @@ a/Q bha/Vs Lunnainn/Nt dheàlrach/Aq a'/Sa tathann/Nv ./F
 Ged/Cs a/Q chòrd/Vs sin/Pd uile/Aq riutha/Pr ,/F
 shàraich/Vs sràidean/Nc cruaidhe/Aq is/Cc dùmhlachd/Nc dhaoine/Nc nan/Sp cabhaig/Nc iad/Pp ,/F
 is/Cc air/Sp latha/Nc shuidh/Vs iad/Pp nan/Sp rùm/Nc cadail/Nc is/Cc ,/F
-ged/Cs a/Q bha/Vs '/F glosaidh/Nc '/F an/Td t-/U aon/Pn aca/Pr fosgailte/Ar mun/Sp coinneamh/Nc ,/F
+ged/Cs a/Q bha/Vs '/F glosaidh/Nc '/F an/Td t-/U aon/Pn aca/Pr fosgailte/Av mun/Sp coinneamh/Nc ,/F
 bha/Vs iad/Pp ion/Ap 's/Cc a/U bhith/Nv tuiteam/Nv nan/Sp cadal/Nc ./F
 Thug/Vs Màiri/Nn sùil/Nc air/Sp Iain/Nn is/Cc thuirt/Vs i/Pp ,/F
 "/F Fuirich/Vm thusa/Pp

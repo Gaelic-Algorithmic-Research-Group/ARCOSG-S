@@ -12,7 +12,7 @@ Bidh/Vf mi/Pp caitheamh/Nv mo/Dp thìde/Nc a'/Sa coimhead/Nv 's/Cc a'/Sa toirt/N
 a/Q tha/Vp dol/Nv air/Sp adhart/Nc anns/Sp a’/Td bhaile/Nc ./F
 Aig/Sp amannan/Nc bidh/Vf mi/Pp faireachdainn/Nv aonaranach/Ap ./F
 Ach/Cc nach/Q eil/Vp a_h-uile/Dq duine/Nc faireachdainn/Nv sin/Pd eadhon/Rg
-nuair/Cs a/Q tha/Vp iad/Pp pòsda/Ar ?/F
+nuair/Cs a/Q tha/Vp iad/Pp pòsda/Av ?/F
 An/Td latha/Nc seo/Dd ,/F thachair/Vs Dougie/Nn rium/Pr
 's/Cc thubhairt/Vs e/Pp rium/Pr
 gu/Q robh/Vs aonaran/Nc air/Sa a/Dp thighinn/Nv do/Sp 'n/Td bhaile/Nc ./F
@@ -23,7 +23,7 @@ a/Q th'/Vp anns/Sp a’/Td bhaile/Nc
 Tha/Vp bhùth/Nc aige/Pr dìreach/Rg coltach/Ap ris/Sp na/Td bùithtean/Nc eile/Aq
 a/Q chi/Vf sibh/Pp air/Sp feadh/Nf na/Td Gàidhealtachd/Nc ann_am/Sp bailtean/Nc beaga/Aq ./F
 “/F Thàinig/Vs e/Pp steach/Rs do/Sp 'n/Td bhùth/Nc ,/F "/F ars/Vs esan/Pp ,/F
-“/F 'S/Cc bha/Vs gach/Dq nì/Nc aige/Pr sgrìobhte/Ar sìos/Rs air/Sp pìos/Nc pàipeir/Nc
+“/F 'S/Cc bha/Vs gach/Dq nì/Nc aige/Pr sgrìobhte/Av sìos/Rs air/Sp pìos/Nc pàipeir/Nc
 's/Cc cha/Q do/Q bhruidhinn/Vs e/Pp rium/Pr idir/Rg ./F
 'S/Wp ann/Pr
 a/Q bha/Vs mi/Pp smaoineachadh/Nv an_toiseach/Rt
@@ -51,7 +51,7 @@ Tha/Vp fhios/Nc agad/Pr
 cáit/U a/Q bheil/Vp am/Td bothan/Nc ?/F "/F
 Thubhairt/Vs mi/Pp ris/Pr gu/Q robh/Vs ./F
 “/F 'S/Cc tha/Vp e/Pp fuireach/Nv an_siud/Rs 'na/Sp aonar/Nc ,/F "/F arsa/Vs Dougie/Nn ./F
-Tha/Vp Dougie/Nn fhéin/Px pòsd/Ar
+Tha/Vp Dougie/Nn fhéin/Px pòsd/Av
 ach/Cc chan/Q eil/Vp mi/Pp smaoineachadh/Nv
 gu/Q bheil/Vp am/Td pòsadh/Nc uabhasach/Rg dòigheil/Ap
 oir/Cc bidh/Vf e/Pp dol/Nv suas/Rs am/Td baile/Nc glé/Rg thric/Rt air/Sp a’/Td bhus/Nc
@@ -63,12 +63,12 @@ Co-dhiubh/Rg cha/Q do/Q chòrd/Vs an/Td t-/U aonaran/Nc ris/Pr
 oir/Cc tha/Vp e/Pp fhéin/Px glé/Rg fhaisg/Ap is/Cc càirdeil/Ap 'na/Sp dhòighean/Nc ./F
 “/F Cha/Q robh/Vs gnothach/Nc aige/Pr thighinn/Nv an_seo/Rs idir/Rg ,/F "/F ars/Vs esan/Pp le/Sp feirg/Nc ./F
 “/F Aonaran/Nc ./F
-Carson/U nach/Q eil/Vp e/Pp pòsd/Ar
+Carson/U nach/Q eil/Vp e/Pp pòsd/Av
 mar/Cs a/Q tha/Vp sinn/Pp uile/Rg ?/F "/F
 (/F Chan/Wp e/Pp 'n/Td fhìrinn/Nc
 a/Q th'/Vp aig/Sp an_seo/Pd
 oir/Cc tha/Vp grunn/Nc ghillean/Nc air/Sp a’/Td bhaile/Nc
-nach/Q eil/Vp pòsd/Ar ./F )/F
+nach/Q eil/Vp pòsd/Av ./F )/F
 “/F Co-dhiùbh/Rg ,/F cha/Q dubhairt/Vs mise/Pp smid/Nc ,/F "/F ars/Vs esan/Pp a_rithist/Rt ./F
 “/F Cha/Q do/Q leig/Vs mi/Pp càil/Nc orm/Pr ./F "/F
 “/F Tigh/Nc na/Td galla/Nc ,/F "/F arsa/Vs Dougie/Nn ,/F

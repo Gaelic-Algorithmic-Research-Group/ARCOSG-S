@@ -6,7 +6,7 @@ nach/Wp e/Pp clann/Nc [Name]/Nn [Name]/Nn fhèin/Px a/Q b'/Ws fhearr/Ap dhiubh/P
 dè/U a’/Td bhliadhna/Nc
 a/Q bh'/Vs ann/Pr ?/F
 chan/Q eil/Vp cho/Rg fada/Ap a/Q bheil/Vp idir/Rg ann/Pr
-[1]/X ach/Cc bha/Vs e/Pp dùint'/Ar uaireigin/Rt suas/Rs a_sineach/Rs
+[1]/X ach/Cc bha/Vs e/Pp dùint'/Av uaireigin/Rt suas/Rs a_sineach/Rs
 fhios/Nc agad/Pr
 far/Cs a/Q bheil/Vp an/Td làn/Nc a'/Sa tighinn/Nv a-staigh/Rs gu/Sp taigh/Nc [Name]/Nn Bhàin/Aq
 bha/Vs gàradh/Nc mòr/Aq shìos/Rs 'sa/Sp chladach/Nc
@@ -19,16 +19,16 @@ bha/Vs iad/Pp eadhon/Rg ag/Sa àiteach/Nv
 far/Cs an/Q robh/Vs
 [4]/X ò/I tha/Vp mi/Pp '/Sa creidsinn/Nv
 bha/Vs e/Pp uaireigin/Rt aig/Sp [Placename]/Nt e/Pp fhèin/Px
-[1]/X bhiodh/Vh e/Pp dùinte/Ar
+[1]/X bhiodh/Vh e/Pp dùinte/Av
 [2]/X feumaidh/Vf
 gun/Q robh/Vs an/Td aon/M rud/Nc air/Sp chùl/Nc an/Td taighe/Nc ann_a_sheothach/Rs
 tha/Vp feadan/Nc ann/Pr
 fhios/Nc agad/Pr an/Td gàrradh/Nc a/Q bha/Vs siudach/Dd fhios/Nc agad/Pr tarsainn/Rs ann_a_shiud/Rs fhios/Nc agad/Pr tha/Vp feadan/Nc ann/Pr
-bhiodh/Vh iad/Pp dùinte/Ar
+bhiodh/Vh iad/Pp dùinte/Av
 [4]/X dè/U an/Td gàrradh/Nc ?/F
 [2]/X shìos/Rs air/Sp chùl/Nc an/Td taighe/Nc ann_a_sheo/Rs na/Td h-/U àiteachan/Nc sin/Dd uileag/Rg
 tha/Vp mi/Pp cinnteach/Ap
-bho/Sp chionn/Nf uaireigin/Nc bhiodh/Vh iad/Pp dùinte/Ar suas/Rg
+bho/Sp chionn/Nf uaireigin/Nc bhiodh/Vh iad/Pp dùinte/Av suas/Rg
 [4]/X truinnse/Nc na/Td Càrnaich/Nc
 an/Wp ann/Pr ?/F
 [2]/X sheadh/I

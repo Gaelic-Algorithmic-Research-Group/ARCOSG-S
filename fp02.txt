@@ -87,8 +87,8 @@ agus/Cc 'se/Wp an/Td suidheachadh/Nc sa/Dd -/F fear/Nc anabarrach/Rg corrach/Ap 
 a/Q tha/Vp a'/Sa riochdachadh/Nv an/Td teannais/Nc
 as/Sp a/Q bheil/Vp móran/Nc de/Sp 'n/Dp cuid/Nc bàrdachd/Nc a'/Sa tighinn/Nv ./F
 Anns/Sp an/Td dàn/Nc “/F Comharra/Nc Stiùiridh/Nc "/F tha/Vp an/Td sgrìobhadair/Nc cuideachd/Rg ,/F a_mach/Rg air/Sp sgaoileadh/Nc eadar/Sp e/Pp fhéin/Px agus/Cc eilean/Nc àraich/Nc ./F
-Mar/Sp thoradh/Nc air/Sp iomadh/Ar falbh/Nc agus/Cc tilleadh/Nc ,/F tha/Vp an/Td t-/U eilean/Nc roinnte/Ar eadar/Sp a’/Td chuid/Nc sin/Dd de/Sp a/Dp shaoghal/Nc
-a/Q tha/Vp caillte/Ar ,/F a/Dp chuid/Nc
+Mar/Sp thoradh/Nc air/Sp iomadh/Ar falbh/Nc agus/Cc tilleadh/Nc ,/F tha/Vp an/Td t-/U eilean/Nc roinnte/Av eadar/Sp a’/Td chuid/Nc sin/Dd de/Sp a/Dp shaoghal/Nc
+a/Q tha/Vp caillte/Av ,/F a/Dp chuid/Nc
 a/Q tha/Vp am/Td bàrd/Nc air/Sa a/Dp ghléidheadh/Nv ann/Pr fhéin/Px
 agus/Cc a/Q tha/Vp bunasach/Ap 'na/Sp bheatha/Nc ,/F agus/Cc an/Td t-/U eilean/Nc
 mar/Cs a/Q tha/Vp e/Pp air/Sa tionndadh/Nv gu/Sa bhith/Nv 'na/Sp àite/Nc eadar-dhealaichte/Aq ./F

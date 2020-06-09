@@ -32,7 +32,7 @@ a/Q bha/Vs a'/Sa tachairt/Nv eadar/Sp beul-aithris/Nc agus/Cc litreachas/Nc sgr�
 Bha/Vs seo/Pd a'/Sa dol/Nv -/F agus/Cc a'/Sa dol/Nv gu/U làidir/Rg -/F ann_an/Sp Albainn/Nt agus/Cc ann_an/Sp Èirinn/Nt ./F
 A_nis/I ,/F chì/Vf sinn/Pp ann_am/Sp beul-aithris/Nc ,/F ann_an/Sp cuid/Nc de/Sp chànainean/Nc fada/Rg bharrachd/Nc de/Sp bhuaidh/Nc litreachais/Nc sgrìobhta/Aq
 agus/Cc a/Q chì/Vf sinn/Pp anns/Sp a'/Td bheul-aithris/Nc aig/Sp cànainean/Nc eile/Aq ./F
-Tha/Vp seo/Pd gu/U math/Rg nochdta/Ar ann_am/Sp beul-aithris/Nc Ghàidheal/Nc Alba/Nt agus/Cc Èirinn/Nt gu_ruige/Sp an/Td latha/Nc an_diugh/Rt fhéin/Px ./F
+Tha/Vp seo/Pd gu/U math/Rg nochdta/Av ann_am/Sp beul-aithris/Nc Ghàidheal/Nc Alba/Nt agus/Cc Èirinn/Nt gu_ruige/Sp an/Td latha/Nc an_diugh/Rt fhéin/Px ./F
 Faodaidh/Vf sinn/Pp a/U bhith/Nv gu/U math/Rg cinnteach/Ap
 gun/Q robh/Vs buaidh/Nc aig/Sp an/Td t-/U suidheachadh/Nc
 a/Q dh'/U ainmich/Vs mi/Pp air/Sp an_seo/Pd ./F
@@ -72,7 +72,7 @@ a/Q rinn/Vs an/Td co-chruinneachadh/Nc bàrdachd/Nc -/F làmh-sgrìobhainnean/Nc
 far/Cs an/Q robh/Vs e/Pp air/Sa a/U bhith/Nv anns/Sp an/Td arm/Nc ,/F mu/Sp 1800/M ./F
 Agus/Cc tha/Vp fhios/Nc againn/Pr
 gun/Q robh/Vs làmh-sgrìobhainnean/Nc a'/Sa siubhal/Nv mun/Sp cuairt/Nc agus/Cc sgeulachdan/Nc gan/Sap copaigeadh/Nv asta/Pr ann_an/Sp Cóigeamh_Mumhan/Nt an/Sp Èirinn/Nt a-steach/Rt don/Sp naoidheamh/M ceud/Nc deug/M ./F
-Se/Wp ceist/Nc gu/U math/Rg fillte/Ar
+Se/Wp ceist/Nc gu/U math/Rg fillte/Av
 a/Q tha/Vp ann/Pr ,/F
 gu/Sp dé/U an/Td dearbh/Ar bhuintealas/Nc
 a/Q bha/Vs eadar/Sp beul-aithris/Nc agus/Cc sgrìobhadh/Nc ann_an/Sp eachdraidh/Nc cuid/Nc de/Sp na/Td sgeulachdan/Nc

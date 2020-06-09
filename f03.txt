@@ -17,7 +17,7 @@ Bha/Vs Eòghainn/Nn Mhurchaidh/Nn shuas/Rs air/Sp Cnoc_'Ic_Phàil/Nt aig/Sp caor
 dh’/U eubh/Vs e/Pp nuas/Rs ,/F
 "/F 'S/Wp ann/Pr ort/Pr
 a/Q chaidh/Vs an/Td sàbhaladh/Nc !/F
-Deich/M mionaidean/Nc eile/Aq 's/Cc bha/Vs thu/Pp bàite/Ar ,/F cinnteach/Rg ./F
+Deich/M mionaidean/Nc eile/Aq 's/Cc bha/Vs thu/Pp bàite/Av ,/F cinnteach/Rg ./F
 Nach/Wp tu/Pp
 bha/Vs gun/Sp tonaisg/Nc ,/F ge-ta/Rg ./F "/F
 Ach/Cc cha/Q robh/Vs ùine/Nc aig/Sp Ludovic/Nn fuireach/Nv ri/Sp còmhradh/Nc ./F
@@ -58,7 +58,7 @@ nach/Q dèanadh/Vh i/Pp dad/Nc dhe/Sp leithid/Nc ./F
 nuair/Cs a/Q bha/Vs e/Pp dol/Nv do/Sp sgoil/Nc an/Td Rubha/Nt
 agus/Cc e/Pp loidseadh/Nv aice/Pr ,/F
 a/Q bhiodh/Vh e/Pp muigh/Rs gu/Sp uair/Nc 'sa/Sp mhadainn/Nc ;/F
-'s/Cc cha/Q robh/Vs an/Td dorus/Nc glaiste/Ar riamh/Rt ./F
+'s/Cc cha/Q robh/Vs an/Td dorus/Nc glaiste/Av riamh/Rt ./F
 “/F Feuch/Vm a-neist/Rg ,/F 'ille/Nc ,/F
 nach/Q beir/Vf an/Td làn/Nc ort/Pr ./F
 Ma/Cs chailleas/Vf tu/Pp an/Td fhadhail/Nc ,/F
@@ -108,7 +108,7 @@ bhiodh/Vh aghaidh/Nc a'/Sa lasadh/Nv ann_an/Sp dòigh/Nc
 a/Q bha/Vs iongantach/Ap ,/F
 mar/Cs a/Q lasas/Vf aodann/Nc gill'/Nc òig/Aq ./F
 B'/Ws ann/Pr
-nuair/Cs a/Q bha/Vs Uilleam/Nn is/Cc Màiri/Nn Anna/Nn pòsda/Ar ann_an/Sp Glaschu/Nt
+nuair/Cs a/Q bha/Vs Uilleam/Nn is/Cc Màiri/Nn Anna/Nn pòsda/Av ann_an/Sp Glaschu/Nt
 a/Q chuireadh/Vs eòlas/Nc an_toiseach/Rt orra/Pr ./F
 Ge_b'e_dé/U bu/Ws choireach/Rg ,/F
 bha/Vs Uilleam/Nn trom/Ap air/Sp an/Td deoch/Nc aig/Sp an/Td àm/Nc ./F
@@ -148,7 +148,7 @@ ach/Cc cha/Wp mhòr/Ap
 gu/Q robh/Vs sad/Nc air/Sa fhàgail/Nv innte/Pr ,/F
 's/Cc i/Pp sìor/Rg fhalamhachadh/Nv ./F
 Bha/Vs fhios/Nc aige/Pr
-gum/Q biodh/Vh bùtha/Nc Dhùghaill/Nn dùinte/Ar neisd/Rt ,/F
+gum/Q biodh/Vh bùtha/Nc Dhùghaill/Nn dùinte/Av neisd/Rt ,/F
 ach/Cc nan/Q ruigeadh/Vh e/Pp 'n/Td tigh-seinnse/Nc 'na/Sp uair/Nc
 's/Wp dòcha/U
 gum/Q biodh/Vh cuideigin/Nc an_sean/Rs le/Sp baidhseagail/Nc

@@ -36,7 +36,7 @@ agus/Cc gu/Q feum/Vf iad/Pp fhèin/Px an/Td t-/U slighe/Nc air/Sp adhart/Nc aont
 Cuiridh/Vf oifigearan/Nc na/Td comhairle/Nc aithisg/Nc ma/Sp choinneamh/Nc nan/Td comhairlichean/Nc foghlaim/Nc an-diugh/Rt -/F
 far/Cs a/Q bheil/Vp iad/Pp an_ìre_mhath/Rg taiceil/Ap do/Sp dh'/U fhoghlam/Nc tro/Sp mheadhan/Nc na/Td Gàidhlig/Nc ./F
 Ach/Cc tha/Vp iad/Pp cuideachd/Rg a'/Sa rabhadh/Nv -/F as/Sp aonais/Nf tuilleadh/Nc airgid/Nc bhon/Sp riaghaltas/Nc agus/Cc as/Sp aonais/Nf tuilleadh/Nc luchd-teagaisg/Nc ,/F
-tha/Vp an/Dp làmhan/Nc an_ìre_mhath/Rg ceangailte/Ar ./F
+tha/Vp an/Dp làmhan/Nc an_ìre_mhath/Rg ceangailte/Av ./F
 Tha/Vp dà/M roinn/Nc an/Sp Comhairle/Nc Earra-Ghàidheal/Nt air/Sa ruith/Nv a-mach/Rs a/Sp airgead/Nc airson/Nf cuid/Nc a/Sp sheirbheisean/Nc am-bliadhna/Rt ./F
 Tha/Vp na/Td seirbhisean/Nc sòisealta/Aq ag/Sa ràdh/Nv
 g'/Q eil/Vp dà/M cheud/M mìle/M a/Sp dhìth/Nc orra/Pr
@@ -67,7 +67,7 @@ gun/Q d'/Q rachadh/Vh rabhadh/Nv do/Sp dhaoine/Nc tràigh/Nc an/Sp Gallaibh/Nt a
 far/Cs an/Q deach/Vs criomag/Nc radio-beò/Aq a/U lorg/Nv an-dè/Rt ./F
 Nochd/Vs còig/M chriomagan/Nc air/Sp Tràigh_Sandside/Nt bho/Sp ionad/Nc Dhunrath/Nt faisg/Ap air/Sp làimh/Nc sna/Sp còig/M bliadhna/Nc deug/M a/U dh'/U fhalbh/Vs ./F
 Ach/Cc thuirt/Vs buidheann/Nc àrainneachd/Nc an/Td riaghaltais/Nc -/F SEPA/X -/F
-gu/Q robh/Vs iad/Pp riaraichte/Ar
+gu/Q robh/Vs iad/Pp riaraichte/Av
 leis/Sp na/Q bha/Vs ga/Sap dhèanamh/Nv airson/Nf an/Td t-/U sluagh/Nc a/U dhìon/Nv ./F
 Tha/Vp buidheann/Nc armaichte/Aq air/Sa ceathrar/Nc Bhreatannach/Nc agus/Cc dithis/Nc eile/Aq a/U thoirt/Nv am/Sp brùid/Nc ann_an/Sp Liberia/Nt ./F
 Chaidh/Vs an/Dp toirt/Nv air_falbh/Rs bho/Sp ionad-còmhnaidh/Nc air/Sa a/Dp ruith/Nv le/Sp buidhean-cathrannais/Nc ./F

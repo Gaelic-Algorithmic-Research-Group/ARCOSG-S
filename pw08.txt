@@ -94,14 +94,14 @@ a/Q dh’/U fheumadh/Vh neach/Nc sam_bith/Aq a/U bhith/Nv a’/Sa dèanamh/Nv g�
 Bha/Vs dithist/Nc luchd-ealain/Nc air/Sp Tacsi/Nn
 a/Q tha/Vp airidh/Ap air/Sp prògraman/Nc sònraichte/Aq dhaib’/Pr fhèin/Px –/F Dòmhnall/Nn Iain/Nn Caimbeul/Nn á/Sp Uibhist_a-Deas/Nt
 a/Q tha/Vp a’/Sa togail/Nv dealbhan/Nc eirmseach/Aq agus/Cc brèagha/Aq le/Sp camara/Nc ,/F agus/Cc Alice/Nn Starmore/Nn á/Sp Leòdhas/Nt
-a/Q tha/Vp a’/Sa dealbhadh/Nv pàtrain/Nc oirdheirceach/Aq agus/Cc annasach/Aq stéidhichte/Ar air/Sp dathan/Nc agus/Cc cumaidhean/Nc bhon/Sp àrainneachd/Nc mun/Sp cuairt/Nc dhith/Pr ./F
+a/Q tha/Vp a’/Sa dealbhadh/Nv pàtrain/Nc oirdheirceach/Aq agus/Cc annasach/Aq stéidhichte/Av air/Sp dathan/Nc agus/Cc cumaidhean/Nc bhon/Sp àrainneachd/Nc mun/Sp cuairt/Nc dhith/Pr ./F
 Tha/Vp 15/M leabhraichean/Nc aice/Pr an/Sp clò/Nc
 ’s/Cc tha/Vp i/Pp ainmeil/Ap anns/Sp na/Td Stàitean/Nc ./F
 Car_son/U nach/Q cuala/Vs sinn/Pp mu/Sp deidhinn/Nf thuige/Pr seo/Dd ?/F
 Car_son/U nach/Q eil/Vp Roinn/Nc an/Td Fhoghlaim/Nc anns/Sp na/Td h-/U Eileanan/Nc a’/Sa gabhail/Nv cothrom/Nc air/Sp na/Td sgilean/Nc seo/Dd ùisneachadh/Nv anns/Sp na/Td sgoiltean/Nc ?/F
 Dh’/U ionnsaich/Vs Alice/Nn na/Td sgilean/Nc aice/Pr bho/Sp a/Dp màthair/Nc ,/F
 agus/Cc tha/Vp i/Pp fhèin/Px a-nis/Rt air/Sa an/Dp ionnsachadh/Nv dhan/Sp nighinn/Nc aice/Pr ,/F Jade/Nn ./F
-Tha/Vp an/Td dealbhadair/Nc òg/Aq seo/Dd i/Pp fhèin/Px air/Sa leabhar/Nc phàtranan/Nc a/U dhealbh/Nv ,/F stèidhichte/Ar air/Sp na/Td rudan/Nc annasach/Aq
+Tha/Vp an/Td dealbhadair/Nc òg/Aq seo/Dd i/Pp fhèin/Px air/Sa leabhar/Nc phàtranan/Nc a/U dhealbh/Nv ,/F stèidhichte/Av air/Sp na/Td rudan/Nc annasach/Aq
 a/Q tha/Vp anns/Sp a’/Td chruinneachadh/Nc aig/Sp Uilleam/Nn Burrell/Nn ann_an/Sp Glaschu/Nt ,/F
 agus/Cc tha/Vp taisbeanadh/Nc dhen/Sp an/Td obair/Nc aice/Pr san/Sp Taigh-tasgaidh/Nc sin/Dd aig/Sp a’/Td cheart/Ar àm/Nc ./F
 Nochd/Vs prògram/Nc ùr/Aq do/Sp dh’/U òigridh/Nc ,/F Splaoid/Nn ,/F air/Sp Telebhisean/Nc na/Td h-/U Alba/Nt feasgar/Nc Di-Sathairne/Nc sa/Dd chaidh/Vs ./F

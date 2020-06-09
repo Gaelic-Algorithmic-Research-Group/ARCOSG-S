@@ -135,4 +135,4 @@ agus/Cc tha/Vp na/Td comhairlichean/Nc agus/Cc daoine/Nc ann_an/Sp Uibhist/Nt a'
 diamar/U a/Q tha/Vp an/Td Nirribhidh/Nt a'/Sa dèanamh/Nv cho/Rg math/Rg
 agus/Cc sin/Pd pàirt/Nc dhen/Sp reusan/Nc
 a/Q tha/Vp iad/Pp a'/Sa dèanamh/Nv cho/Rg math/Rg fhios/Nc a'd/Pr
-gu/Q bheil/Vp iad/Pp uileag/Rg ceangailte/Ar còmhla/Rg ri/Sp chèile/Px
+gu/Q bheil/Vp iad/Pp uileag/Rg ceangailte/Av còmhla/Rg ri/Sp chèile/Px

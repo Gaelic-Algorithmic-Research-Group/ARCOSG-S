@@ -30,7 +30,7 @@ gu/Q feumadh/Vh buidhnean/Nc poblach/Aq obrachadh/Nv comhla/Rg airson/Nf dèanam
 gun/Q dèid/Vf talamh/Nc a/U shaoradh/Nv airson/Nf taighean/Nc
 's/Cc gun/Q dèid/Vf taighean/Nc a/U thogail/Nv air/Sp an/Td talamh/Nc sin/Dd ./F
 Chaidh/Vs iomairt/Nc ùr/Aq a/U chur/Nv air/Sp chois/Nc air/Sp a’/Td Ghaidhealtachd/Nc airson/Nf daoine/Nc oideachadh/Nv mu/Sp
-na/Q tha/Vp e/Pp sàbhailte/Ar dhaibh/Pr òl/Nv de/Sp dheoch/Nc làidir/Aq ./F
+na/Q tha/Vp e/Pp sàbhailte/Av dhaibh/Pr òl/Nv de/Sp dheoch/Nc làidir/Aq ./F
 Tha/Vp grunn/Nc bhuidhnean/Nc a'/Sa dol/Nv còmhla/Rg anns/Sp an/Td iomairt/Nc -/F Poilis/Nc a'/Td Chinn-a-Tuath/Nt ,/F Bòrd/Nc Slàinte/Nc na/Td Gaidhealtachd/Nc ,/F a'/Td chomhairle/Nc ,/F na/Td RgCs/Y agus/Cc taighean/Nc seinnse/Nc ./F
 Thuirt/Vs stiùiriche/Nc Bòrd/Nc na/Td Slàinte/Nc ,/F an/Td dotair/Nc Gordan/Nn Stone/Nn ,/F
 gu/Q bheil/Vp e/Pp a'/Sa sealltainn/Nv

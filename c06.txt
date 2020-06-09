@@ -158,7 +158,7 @@ tha/Vp e/Pp dìreach/Rg mar/Sp aon/M loch/Nc ann_a_shiud/Rs
 [1]/X nam/Q biodh/Vh fìor/Ar ghèilichean/Nc dona/Aq dona/Aq air/Sa a/U bhith/Nv ann/Pr
 chan/Q eil/Vp fhios/Nc
 cò/U ris/Pr a/Q bhiodh/Vh e/Pp coltach/Ap
-[5]/X chunna/Vs mi/Pp tòrr/Nc chaoraich/Nc bàite/Ar sa/Sp rubha/Nc shuas/Rs aig/Sp ceann/Nc na/Td drochaid/Nc
+[5]/X chunna/Vs mi/Pp tòrr/Nc chaoraich/Nc bàite/Av sa/Sp rubha/Nc shuas/Rs aig/Sp ceann/Nc na/Td drochaid/Nc
 [2]/X cò/U an/Td drochaid/Nc ?/F
 [5]/X an/Td drochaid/Nc mhòr/Aq ri/Sp taobh/Nc [Placename]/Nt
 [2]/X feumaidh/Vf

@@ -2,7 +2,7 @@
 tha/Vp cù/Nc snog/Aq aige/Pr 'na/Sp chois/Nc an_sin/Rs
 cù/Nc agus/Cc h-/U abair/Vm
 g'/Q eil/Vp e/Pp dòigheil/Ap a/U Mhurchaidh/Nn
-ach/Cc tha/Vp sgeul/Nc co-cheangailte/Ar ris/Sp a'/Td choin/Nc
+ach/Cc tha/Vp sgeul/Nc co-cheangailte/Av ris/Sp a'/Td choin/Nc
 nach/Q eil/Vp ?/F
 [2]/X tha/Vp
 sann/Wp à/Sp Uibhist/Nt
@@ -73,7 +73,7 @@ tha/Vp Belle/Nn Ann/Nn
 tha/Vp ise/Pp a'/Sa toir/Nv taic/Nc dhan/Sp SSPCA/Y
 agus/Cc bidh/Vf sibhse/Pp
 bidh/Vf sibh/Pp a'/Sa dèanamh/Nv tòrr/Nc rudan/Nc airson/Nf beathaichean/Nc mar/Sp sin/Pd
-tha/Vp tòrr/Nc phrògraman/Nc air/Sp an/Td telly/Xfe an-dràsta/Rt nach/Q eil/Vp co-cheangailte/Ar ri/Sp beathaichean/Nc mar/Sp sin/Pd
+tha/Vp tòrr/Nc phrògraman/Nc air/Sp an/Td telly/Xfe an-dràsta/Rt nach/Q eil/Vp co-cheangailte/Av ri/Sp beathaichean/Nc mar/Sp sin/Pd
 ach/Cc feumaidh/Vf daoine/Nc a/U bhith/Nv faiceallach/Ap
 mus/Cs ceannaich/Vf iad/Pp peat/Nc
 nach/Q fheum/Vf ?/F
@@ -172,7 +172,7 @@ can/Vm an-dràsta/Rt
 ach/Cc 'se/Wp rud/Nc eile/Aq ann/Pr coimhead/Nv as/Sp a/Dp dhèidh/Nf
 nach/Wp e/Pp ?/F
 [4]/X ò/I uill/I 'se/Wp gu/U deimhinn'/Rg
-ò/I tha/Vp an/Td t-/U uamhas/Nc obair/Nc co-cheangailte/Ar ri/Sp gu/U h-/U àraid/Rg eich/Nc
+ò/I tha/Vp an/Td t-/U uamhas/Nc obair/Nc co-cheangailte/Av ri/Sp gu/U h-/U àraid/Rg eich/Nc
 em/I tha/Vp
 uill/I tha/Vp dithis/Nc nighean/Nc agam/Pr fhìn/Px
 agus/Cc tha/Vp ponies/Xfe Shetland/Xfe pony/Xfe aig/Sp aon/Pn ac'/Pr agus/Cc each/Nc meadhanach/Rg mòr/Aq aig/Sp an/Td tè/Nc eile/Aq
@@ -184,7 +184,7 @@ tha/Vp seo/Pd
 tha/Vp na/Td h-/U eich/Nc air/Sa a/U bhith/Nv ac'/Pr
 agus/Cc mar/Cs a/Q tha/Vp thu/Pp ag/Sa ràdh/Nv ò/I
 tha/Vp tò/X
-an/Sp taca/Nf ri/Sp ri/Sp cù/Nc no/Cc ò/I tha/Vp an/Td t-/U uabhas/Nc a/Sp obair/Nc co-cheangailte/Ar ri/Sp ri/Sp na/Td h-/U eich/Nc an-dràsta/Rt eadar/Sp a/U bhith/Nv gan/Sap glanadh/Nv 's/Cc a'/Sa glanadh/Nv na/Td cuidhean/Nc aca/Pr
+an/Sp taca/Nf ri/Sp ri/Sp cù/Nc no/Cc ò/I tha/Vp an/Td t-/U uabhas/Nc a/Sp obair/Nc co-cheangailte/Av ri/Sp ri/Sp na/Td h-/U eich/Nc an-dràsta/Rt eadar/Sp a/U bhith/Nv gan/Sap glanadh/Nv 's/Cc a'/Sa glanadh/Nv na/Td cuidhean/Nc aca/Pr
 's/Cc gan/Sap uiseagadh/Nv
 gam/Sap feedaigeadh/Nv
 tha/Vp sin/Pd gu/U math/Rg cosgail/Ap tron/Sp a'/Td gheamhraidh/Nc gu/U h-/U àraid/Rg

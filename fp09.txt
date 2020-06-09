@@ -57,7 +57,7 @@ is/Cc thug/Vs iadsan/Pp a’/Td Bheurla/Nc dhan/Sp dùthaich/Nc sin/Dd ./F
 Tha/Vp tomhas/Nc math/Aq dhen/Sp fhìrinn/Nc an_sin/Rs ceart/Ap gu/U leòr/Rg
 ach/Cc faodaidh/Vf sinn/Pp a/U bhith/Nv cinnteach/Ap cuideachd/Rg
 nach/Q robh/Vs na/Td tighearnan-fearainn/Nc Gàidhealach/Aq nan/Sp aonar/Nc ;/F
-bhiodh/Vh feachd/Nc làidir/Aq cuide/Ap riutha/Pr gan/Sap cumail/Nv tèarainte/Ar ./F
+bhiodh/Vh feachd/Nc làidir/Aq cuide/Ap riutha/Pr gan/Sap cumail/Nv tèarainte/Av ./F
 Cuimhnicheamaid/Vm
 gur/Wp h-/U ann/Pr neart/Nc air/Sp cheart/Nc le/Sp faobhar/Nc a’/Td chlaidheimh/Nc
 a/Q thug/Vs iad/Pp a-mach/Rg fearann/Nc dhaibh/Pr fèin/Px
@@ -74,14 +74,14 @@ gu/Q robh/Vs na/Td Gàidheil/Nc pailt/Ap san/Sp dùthaich/Nc sin/Dd uair/Nc dhe/
 Saoilidh/Vf mi/Pp
 gu/Q bheil/Vp feum/Nc air/Sp sùil/Nc eile/Aq a/U thoirt/Nv air/Sp ainmeannan-àite/Nc an/Sp ceann/Nc an_deas/Aq na/Td rìoghachd/Nc ;/F sùil/Nc nas/U mionaidiche/Ap
 na/U thugadh/Vs orra/Pr gu_ruige/Sp seo/Pd ./F
-Tha/Vp e/Pp dualach/Ap dhan/Sp a_h-uile/Dq cànan/Nc fon/Sp ghrèin/Nc a/U bhith/Nv roinnte/Ar na/Td dualchainntean/Nc o/Sp sgìr/Nc gu/Sp sgìr/Nc agus/Cc o/Sp bhaile/Nc gu/Sp baile/Nc ./F
+Tha/Vp e/Pp dualach/Ap dhan/Sp a_h-uile/Dq cànan/Nc fon/Sp ghrèin/Nc a/U bhith/Nv roinnte/Av na/Td dualchainntean/Nc o/Sp sgìr/Nc gu/Sp sgìr/Nc agus/Cc o/Sp bhaile/Nc gu/Sp baile/Nc ./F
 Tha/Vp e/Pp furasda/Ap dhuinn/Pr a/U chreidsinn/Nv
 gum/Q biodh/Vh na/Td roinnean/Nc sin/Dd air/Sa an/Dp daingneachadh/Nv ann_an/Sp cànan/Nc
 mar/Cs a/Q bha/Vs a’/Td Ghàidhlig/Nc
 a/Q bha/Vs sgaoileadh/Nv air/Sp feadh/Nf Alba/Nt
 is/Cc coigrich/Nc ,/F Cruithnich/Nc is/Cc Breatannaich/Nc ,/F
 nach/Q boineadh/Vh do/Sp shìol/Nc nan/Td Gàidheal/Nc idir/Rg ,/F ga/Sap h-/U ionnsachadh/Nv ./F
-Tha/Vp e/Pp aithnichte/Ar gu/U leòr/Rg
+Tha/Vp e/Pp aithnichte/Av gu/U leòr/Rg
 gu/Q bheil/Vp cruth/Nc air/Sp a’/Td Ghàidhlig/Nc an/Sp Alba/Nt
 a/Q bheir/Vf cruth/Nc na/Td Cuimrigh/Nc an/Sp cuimhne/Nc duine/Nc sam_bith/Aq
 aig/Sp a/Q bheil/Vp eòlas/Nc air/Sp na/Td dhà/Pn ./F

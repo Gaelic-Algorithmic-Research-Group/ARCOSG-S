@@ -21,7 +21,7 @@ a's/Sp an/Q gabh/Vf seo/Pd a/U dhaingneachadh/Nv no/Cc a/U dhìon/Nv idir/Rg
 [1]/X a/U Mhurchaidh/Nn mar/Sp fhear-labhairt/Nc Gàidhlig/Nc aig/Sp a’/Td phàrtaidh/Nc Tòraidheach/Aq a/Q bheil/Vp thu/Pp fhèin/Px a'/Sa gabhail/Nv dragh/Nc
 gu/Q bheil/Vp dearbhadh/Nc ann/Pr a-nis/Rt
 gun/Q do/Q ghabh/Vs itealan/Nc Ameireaganach/Aq
-a/Q tha/Vp suidhichte/Ar ann_am/Sp Breatainn/Nt pàirt/Nc a's/Sp an/Td ionnsaidh/Nc
+a/Q tha/Vp suidhichte/Av ann_am/Sp Breatainn/Nt pàirt/Nc a's/Sp an/Td ionnsaidh/Nc
 tha/Vp seo/Pd air/Sp Libya/Nt a/Sp dh’/U aindeoin/Nf
 's/Cc gun/Q cualas/Vs aig/Sp deireadh/Nc na/Td seachdainn/Nc
 gun/Q robh/Vs am/Td prìomhaire/Nc air/Sa cead/Nc a/U dhiùltadh/Nv dha/Sp na/Td h-/U Ameireaganaich/Nc sin/Pd a/U dhèanamh/Nv ?/F
@@ -95,7 +95,7 @@ gun/Q dèan/Vf seo/Pd na/Td h-/U Arabaich/Nc aonachadh/Nv ann/Pr an/Sp aghaidh/N
 tha/Vp tòrr/Nc dhe/Sp na/Td h-/U Arabaich/Nc
 a/Q tha/Vp fhathast/Rt air/Sp taobh/Nc Amearagaidh/Nt
 agus/Cc thairis/Rg air/Sp a-sin/Pd saoilidh/Vf mise/Pp
-gur/Wp ann_am/Sp freasdal/Nc a’/Td chruidhear/Nc gu_ruige/Sp seo/Pd ri/Sp cumail/Nv na/Td h-/U Arabaich/Nc gun/Sp a/U bhith/Nv aonaichte/Ar am/Sp measg/Nf a_chèile/Px agus/Cc an/Td latha/Nc
+gur/Wp ann_am/Sp freasdal/Nc a’/Td chruidhear/Nc gu_ruige/Sp seo/Pd ri/Sp cumail/Nv na/Td h-/U Arabaich/Nc gun/Sp a/U bhith/Nv aonaichte/Av am/Sp measg/Nf a_chèile/Px agus/Cc an/Td latha/Nc
 a/Q thèid/Vf an/Dp aonachadh/Nv an/Sp aghaidh/Nc a_chèile/Px
 gu/Q bheil/Vp cumhachd/Nc eagalach/Aq aca/Pr airson/Nf milleadh/Nc a/U dhèanamh/Nv air/Sp feadh/Nf an/Td t-/U saoghail/Nc
 agus/Cc saoilidh/Vf mi/Pp

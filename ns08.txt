@@ -49,7 +49,7 @@ far/Cs am/Q bheil/Vp cidhe/Nc iasgaich/Nc tur/Rg ùr/Ap air/Sa iarraidh/Nv ./F
 Tha/Vp fathannan/Nc a'/Sa sìor/Rg fhàs/Nv làidir/Ap
 gu/Q bheil/Vp Ùghdarras/Nc a’/Td Chumhachd/Nc Atamaich/Aq gu/U math/Rg faisg/Ap air/Sp cumhnant/Nc ùr/Aq aontachadh/Nv son/Nf connadh/Nc às/Sp Astràilia/Nt ath-ghiollachd/Nv ./F
 Rachadh/Vh an/Td obair/Nc a/U dhèanamh/Nv aig/Sp ionad/Nc ath-ghiollachd/Nc Dhunrath/Nt -/F
-a/Q tha/Vp dùinte/Ar
+a/Q tha/Vp dùinte/Av
 bho/Cs chaidh/Vs a’/Td cheud/M luchd/Nc a/Sp shlatan-connaidh/Nc à/Sp Astràilia/Nt ath-ghiollachd/Nv an_uirigh/Rt ./F
 Thuirt/Vs fear-labhairt/Nc an/Td Ughdarrais/Nc
 gu/Q robh/Vs na/Td còmhraidhean/Nc mun/Sp chumhnant/Nc a'/Sa leantainn/Nv ./F

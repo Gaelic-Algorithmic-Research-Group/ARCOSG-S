@@ -125,7 +125,7 @@ ciamar/U a/Q chaidh/Vs iad/Pp air/Sa chall/Nv
 mar/Cs a/Q thuirt/Vs mi/Pp
 chan/Wp e/Pp feallsanach/Nc
 a/Q th'/Vp annams'/Pr ann/Pr
-ach/Cc tha/Vp e/Pp co-cheangailte/Ar ris/Sp a’/Td bhliadhna/Nc
+ach/Cc tha/Vp e/Pp co-cheangailte/Av ris/Sp a’/Td bhliadhna/Nc
 a/Q th'/Vp air/Sa a/Dp tomhas/Nv a/Sp -/F rèir/Nf a'/Td chuairt/Nc
 a/Q tha/Vp a’/Td gheala/Nc a'/Sa toirt/Nv timcheall/Ap air/Sp an/Td t-/U saoghal/Nc air/Sp an/Td t-/U saoghal/Nc dà/M uair/Nc dheug/M agus/Cc a’/Td chuairt/Nc
 a/Q tha/Vp an/Td saoghal/Nc a'/Sa toirt/Nv timcheall/Nf na/Td grèine/Nc

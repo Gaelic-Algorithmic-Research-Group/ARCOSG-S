@@ -114,7 +114,7 @@ nach/Wp e/Pp sin/Pd an/Td leabaidh/Nc aca/Pr ?/F
 [5]/X air/Sp a’/Td lobhta/Nc aige/Pr ?/F
 a/U Shìorraidh/I nach/Wp ann/Pr an_sin/Rs
 a/Q bhiodh/Vh a_h-uile/Dq duine/Nc a'/Sa cadal/Nv shuas/Rs an/Td staighre/Nc
-[1]/X a/U Shìorraidh/I a/U [Name]/Nn tha/Vp e/Pp fosgailte/Ar
+[1]/X a/U Shìorraidh/I a/U [Name]/Nn tha/Vp e/Pp fosgailte/Av
 's/Cc chì/Vf thu/Pp
 [2]/X nach/Q eil/Vp dà/M cheann/Nc a's/Sp an/Td taigh/Nc ge-tà/Rg [Name]/Nn
 [1]/X siud/Pd
